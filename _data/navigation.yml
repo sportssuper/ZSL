@@ -1,0 +1,24 @@
+
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/#publications"  
+    children:
+      - title: "By topic"
+        url: "/#publications#by-topic"
+      - title: "By date"
+        url: "/#publications#by-date"
+ 
+  - title: "Books"
+    url: "/#books"
+
+  - title: "Teaching"
+    url: "/#teaching"
+
+  - title: "Talks"
+    url: "/#talks"
+
+  - title: "Lab"
+    url: "/#lab"
