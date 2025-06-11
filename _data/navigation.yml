@@ -1,24 +1,24 @@
 main:
   - title: "About Me"
-    url: "{{ '/' | relative_url }}#about-me"
+    url: "ZSL/#about-me"
 
   - title: "Publications"
-    url: "{{ '/' | relative_url }}#publications"
+    url: "ZSL/#publications"
 
   - title: "Projects"
-    url: "{{ '/' | relative_url }}#projects"
+    url: "ZSL/#projects"
 
   - title: "Books"
-    url: "{{ '/' | relative_url }}#books"
+    url: "ZSL/#books"
 
   - title: "Teaching"
-    url: "{{ '/' | relative_url }}#teaching"
+    url: "ZSL/#teaching"
 
   - title: "Talks"
-    url: "{{ '/' | relative_url }}#talks"
+    url: "ZSL/#talks"
 
   - title: "Lab"
-    url: "{{ '/' | relative_url }}#lab"
+    url: "ZSL/#lab"
 
 
 
