@@ -1,8 +1,4 @@
 
-bundle exec jekyll serve --port 4001
-
-# Talks
-
 **International Talks**
 
 - *2024.10*, **NeurIPS Workshop**, Vancouver, Canada. [Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data](talks/Hoop_MSSL.pdf).
