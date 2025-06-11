@@ -1,22 +1,50 @@
-
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "{{ '/' | relative_url }}#about-me"
 
   - title: "Publications"
-    url: "/#publications"  
+    url: "{{ '/' | relative_url }}#publications"
 
- - title: "Projects"
-    url: "/#projects"
- 
+  - title: "Projects"
+    url: "{{ '/' | relative_url }}#projects"
+
   - title: "Books"
-    url: "/#books"
+    url: "{{ '/' | relative_url }}#books"
 
   - title: "Teaching"
-    url: "/#teaching"
+    url: "{{ '/' | relative_url }}#teaching"
 
   - title: "Talks"
-    url: "/#talks"
+    url: "{{ '/' | relative_url }}#talks"
 
   - title: "Lab"
-    url: "/#lab"
+    url: "{{ '/' | relative_url }}#lab"
+
+
+
+
+
+
+
+
+# main:
+#   - title: "About Me"
+#     url: "/#about-me"
+
+#   - title: "Publications"
+#     url: "/#publications"  
+
+#  - title: "Projects"
+#     url: "/#projects"
+ 
+#   - title: "Books"
+#     url: "/#books"
+
+#   - title: "Teaching"
+#     url: "/#teaching"
+
+#   - title: "Talks"
+#     url: "/#talks"
+
+#   - title: "Lab"
+#     url: "/#lab"
