@@ -335,7 +335,7 @@ Zhou, C., **Zhang, S.**, Lorenzo Calvo, A., & Cui, Y.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSS</div><img src='paperimages/jss.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSS</div><img src='paperimages/JSS1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Clustering performances in the NBA according to players’ anthropometric attributes and playing experience](https://doi.org/10.1080/02640414.2018.1466493)**
