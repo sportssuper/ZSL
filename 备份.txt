@@ -1,0 +1,17 @@
+
+bundle exec jekyll serve --port 4001
+
+# Talks
+
+**International Talks**
+
+- *2024.10*, **NeurIPS Workshop**, Vancouver, Canada. [Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data](talks/Hoop_MSSL.pdf).
+- *2024.07*, **ECSS**, Glasgow, Scotland. [Explainable artificial intelligence model for identifying market value in professional soccer players](talks/Davison等.pdf).
+- *2024.05*, **ASCM**, Boston,  USA. [Using Interpretable Machine Learning to Predict Injury Risk Among Collegiate Male Basketball Players](talks/predictinjuryriskamongcollegiatemalebasketballplayers.pdf).
+- *2024.05*, **ASCM**, Boston, USA. [Effects Of Caffeine Supplementation On Athletic Performance In Basketball: A Systematic Review And Meta Analysis](talks/Effectsofcaffeinesupplementationonathleticperformanceinbasketball.pdf).
+- *2024.05*, **ACSM**, Boston, USA. [Enhancing fall risk prediction in Chinese older adults using explainable machine learning](talks/machinelearning331.pdf).
+- *2023.10*, **Statsbomb**, Wembley, UK. [Clustering Football Game Situations via Deep Representation Learning](talks/ClusteringFootballGameSituations.pdf).
+- *2020.12*, **CIB**, En Cáceres. [Modelling and simulation in game performances of basketball players and teams in the national basketball association](talks/Modellingandsimulation.pdf).
+- *2018.07*, **ECSS**, Dublin, Ireland. [The interactive effects of situational variables on team performance in NBA](talks/Book of abstracts.pdf).
+- *2017.10*, **CSS**, FC Barcelona Stadium, Barcelona. [Performance Profiles of Basketball Players in NBA According to Anthropometric Attributes and Playing Experience](talks/Complexsystemsinsport.pdf).
+- *2016.07*, **ECSS**, Vienna, Austria. [Evaluating the quality of opposition in basketball games based on TOPSIS method](talks/BACA-2016.pdf).

@@ -18,30 +18,393 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Assistant Professor, Department of Physical Education
 
-# Research interests 
-- Sports competition information science.
-- Athletic training scientific monitoring, measurement and intervention.
-- Performance and data science of basketball, football and volleyball.
-- Sports technology and big Data.
+<div style="font-family: 'Arial Black', sans-serif; font-size: 15px; line-height: 1; color: #333; text-align: center;background-color: rgba(241, 217, 247, 0.5); padding: 20px;">
+  <p>"All knowledge is, in final analysis, history.</p>
+  <p>All sciences are, in the abstract, mathematics.</p>
+  <p>All judgements are, in their rationale, statistics."</p>
+
+  <br>
+
+  <p>"在终极的分析中，一切知识都是历史；</p>
+  <p>在抽象的意义下，一切科学都是数学；</p>
+  <p>在理性的世界里，所有的判断都是统计学。"</p>
+</div>
+
+# Research focus
+- Interdisciplinary integration of artificial intelligence, big data, and sports science.
+- Scientific training monitoring, evaluation, and intervention.
+- Big data visualization in sports science.
 
 # Publications 
 
-
-<span class='anchor' id='by-topic'></span>
-**By topic**
-
-*1. Spatio-temporal analysis*
-   - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com)Authors: A, B, C，Conference: **CVPR 2020**
- 
-*2. Traditional analysis*
-   - [Lorem ipsum dolor sit amet, consectetur adipiscing elit...](https://github.com)  Authors: A, B, C，Conference: **CVPR 2020**
- 
-*3. Machine learning analysis*
-   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+*1. Technical-tactical diagnosis*
   
-<span class='anchor' id='by-date'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Psychol.</div><img src='paperimages/F-24-06.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[The influence of “momentum”on the game outcome while controlling for game types in basketball](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1412840/full)**
+
+Qiu M, **Zhang S**, Yi Q, Zhou C and Zhang M
+
+**Journal** : Frontiers in Psychology
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi.org/10.3389/fpsyg.2024.1412840
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BOS</div><img src='paperimages/BOS-24-24-04.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[The influence of meteorological factors on the technical performance of football teams during matches](https://www.termedia.pl/The-influence-of-meteorological-factors-on-the-technical-r-nperformance-of-football-teams-during-matches,78,52578,1,1.html)**
+
+Zhong Y, **Zhang S**, Yi Q, & Ruano M. Á. G. 
+
+**Journal** : Biology of Sport
+
+**Impact Factor**: 4.2
+
+**中科院分区**: 1区
+
+**DOI**:  https://doi/10.5114/biolsport.2024.136091
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Psychol.</div><img src='paperimages/F-22-11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[Impact of COVID-19 lockdown on match performances in the National Basketball Association](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.951779/full)**
+
+Lu P, **Zhang S**, Ding J, Wang X and Gomez MA 
+
+**Journal** : Frontiers in Psychology
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi/10.3389/fpsyg.2022.951779
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Psychol.</div><img src='paperimages/F-22-09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[The evaluation of playing styles integrating with contextual variables in professional soccer](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140070591&doi=10.3389%2ffpsyg.2022.1002566&partnerID=40&md5=0bcdcb48c1aa3bea9d2ca7a86efdc5ea)**
+
+Kong L, Zhang T, Zhou C, Gomez MA, Hu Y, **Zhang S**
+
+**Journal** : Frontiers in Psychology
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi/10.3389/fpsyg.2022.1002566
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Psychol.</div><img src='paperimages/F-WX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[The Differences in the Performance Profiles Between Native and Foreign Players in the Chinese Basketball Association](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.788498/full)**
+
+Wang X, Han B, **Zhang S**, Zhang L, Lorenzo Calvo A and Gomez M-Á 
+
+**Journal** : Frontiers in Psychology
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi/10.3389/fpsyg.2021.788498
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPAS</div><img src='paperimages/IJPAS-GONG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[Impact of technical and physical key performance indicators on ball possession in the Chinese Super League](https://www.tandfonline.com/doi/full/10.1080/24748668.2021.1957296)**
+
+Gong B, Cui Y, **Zhang S**, Zhou C, Yi Q, & Gómez-Ruano MÁ.
+
+**Journal** : International Journal of Performance Analysis in Sport
+
+**Impact Factor**: 1.9
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi/10.1080/24748668.2021.1957296
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Psychol.</div><img src='paperimages/F-2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[Modeling the Keys to Team’s Success in the Women’s Chinese Basketball Association](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.671860/full)**
+
+Yi Q, **Zhang S**, Fang W and Gómez-Ruano M-Á 
+
+**Journal** : Frontiers in Psychology
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi/10.3389/fpsyg.2021.671860
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPAS</div><img src='paperimages/IJPAS-DR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[Addressing opposition quality in basketball performance evaluation](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.671860/full)**
+
+Dong R, Lian B, **Zhang S**, Zhang M, Huang SZY, & O’Donoghue P. 
+
+**Journal** : International Journal of Performance Analysis in Sport
+
+**Impact Factor**:  1.9
+
+**中科院分区**: 3区
+
+**DOI**:  10.1080/24748668.2021.1877938
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Psychol.</div><img src='paperimages/F-LH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[Explaining Positional Differences of Performance Profiles for the Elite Female Basketball Players](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.558750/full)**
+
+Zhai Z, Guo Y, **Zhang S**, Li Y and Liu H
+
+**Journal** : Frontiers in Psychology
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi/10.3389/fpsyg.2020.558750
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">体育学刊</div><img src='paperimages/TYXK.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[基于分位数回归模型的高水平篮球比赛制胜因素探析——以2019 FIBA男子篮球世界杯为例](https://kns.cnki.net/kcms2/article/abstract?v=7gnxONS3vkm6p9EthPZi-66A3K71glg3mOe0OtKVeASVGZSubyk0VT1BAEB-suKHtkrDRnvH4rs0-JMU-uO_Oja4FpsWsqFfs56OmBMeMBTyLgguw-OlTwOrpywY_-u6&uniplatform=NZKPT&language=gb)**
+
+**张绍良**, 董芮,王星,等
+
+**Journal** : 体育学刊 (CSSCI)
+
+**DOI**:  https://doi/10.16237/j.cnki.cn44-1404/g8.2021.01.016
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Sci.</div><img src='paperimages/AP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[The Performance Evolution of Match Play Styles in the Spanish Professional Basketball League](https://www.mdpi.com/2076-3417/10/20/7056l)**
+
+Gómez, M.-Á.; Medina, R.; Leicht, A.S.; **Zhang, S.**
+
+**Journal** : Applied Sciences
+
+**Impact Factor**: 2.5
+
+**中科院分区**: 4区
+
+**DOI**:  https://doi.org/10.3390/app10207056
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJERPH</div><img src='paperimages/IJE1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[The Regional Differences in Game-Play Styles Considering Playing Position in the FIBA Female Continental Basketball Competitions](https://www.mdpi.com/1660-4601/17/16/5827)**
+
+Zhai, Z.; Guo, Y.; Li, Y.; **Zhang, S.**; Liu, H.
+
+**Journal** : International Journal of Environmental Research and Public Health
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 4区
+
+**DOI**:  https://doi.org/10.3390/ijerph17165827
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJERPH</div><img src='paperimages/IJE2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Modelling the Relationship between Match Outcome and Match Performances during the 2019 FIBA Basketball World Cup: A Quantile Regression Analysis](https://www.mdpi.com/1660-4601/17/16/5722)**
+
+**Zhang, S.**; Gomez, M.Á.; Yi, Q.; Dong, R.; Leicht, A.; Lorenzo, A.
+
+**Journal** : International Journal of Environmental Research and Public Health
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 4区
+
+**DOI**:  https://doi.org/10.3390/ijerph17165722
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJERPH</div><img src='paperimages/ijerph202001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Evaluation of the Technical Performance of Football Players in the UEFA Champions League](https://www.mdpi.com/1660-4601/17/2/604)**
+
+Yi, Q.; Gómez-Ruano, M.-Á.; Liu, H.; **Zhang, S.**; Gao, B.; Wunderlich, F.; Memmert, D.
+
+**Journal** : International Journal of Environmental Research and Public Health
+
+**Impact Factor**: 2.6
+
+**中科院分区**: 4区
+
+**DOI**:  https://doi.org/10.3390/ijerph17020604
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPAS</div><img src='paperimages/IJPAS-2018.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Performance profiles and opposition interaction during game-play in elite basketball: evidences from National Basketball Association](https://doi.org/10.1080%2F24748668.2018.1555738)**
+
+**Zhang, S.**, Lorenzo, A., Zhou, C., Cui, Y., Gonçalves, B., & Angel Gómez, M.
+
+**Journal** : International Journal of Performance Analysis in Sport
+
+**Impact Factor**:  1.9
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi.org/10.1080%2F24748668.2018.1555738
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJSSC</div><img src='paperimages/coaching1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Evolution of game-play characteristics within-season for the National Basketball Association](https://doi.org/10.1177%2F1747954119847171)**
+
+**Zhang, S.**, Lorenzo, A., Woods, C. T., Leicht, A. S., & Gómez, M.-A.
+
+**Journal** : International Journal of Sports Science and Coaching
+
+**Impact Factor**:  1.5
+
+**中科院分区**: 4区
+
+**DOI**:  https://doi.org/10.1177%2F1747954119847171
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPAS</div><img src='paperimages/IJPAS-ZCJ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Chinese soccer association super league, 2012–2017: key performance indicators in balance games](https://www.tandfonline.com/doi/full/10.1080/24748668.2018.1509254)**
+
+Zhou, C., **Zhang, S.**, Lorenzo Calvo, A., & Cui, Y.
+
+**Journal** : International Journal of Performance Analysis in Sport
+
+**Impact Factor**:  1.9
+
+**中科院分区**: 3区
+
+**DOI**:  10.1080/24748668.2018.1509254
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSS</div><img src='paperimages/JSS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Clustering performances in the NBA according to players’ anthropometric attributes and playing experience](https://doi.org/10.1080/02640414.2018.1466493)**
+
+**Zhang, S.**, Lorenzo, A., Gómez, M. A., Mateus, N., Gonçalves, B., & Sampaio, J.
+
+**Journal** : Journal of Sports Sciences
+
+**Impact Factor**:  2.3
+
+**中科院分区**: 2区
+
+**DOI**:  10.1080/02640414.2018.1466493
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPAS</div><img src='paperimages/ijpas-2017.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Players’ technical and physical performance profiles and game-to-game variation in NBA](https://doi.org/10.1080%2F24748668.2017.1352432)**
+
+**Zhang, S.**, Lorenzo, A., Gómez, M. A., Liu, H., Gonçalves, B., & Sampaio, J.
+
+**Journal** : International Journal of Performance Analysis in Sport
+
+**Impact Factor**:  1.9
+
+**中科院分区**: 3区
+
+**DOI**:  https://doi.org/10.1080/24748668.2017.1352432
+</div>
+</div>
+
+
+
+*2. Intensive schedule impact*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJSPP</div><img src='paperimages/ispp1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+**[Tracking What Truly Matters: The Contribution of Game Load, Recovery, and Well-Being to Basketball Performance](https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2024-0488/article-10.1123-ijspp.2024-0488.xml)**
+
+**Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. 
+
+**Journal** : International Journal of Sports Physiology and Performance
+
+**Impact Factor**: 3.5
+
+**中科院分区**: 2区
+
+**DOI**:  https://doi.org/10.1123/ijspp.2024-0488
+</div>
+</div>
+
+ 
+
+*3. Spatio-temporal feature mining*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+     
+*4. Physical training monitor*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+
+*5. Systematic review*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+
+*6. Sports injury*
+   - [Lorem ipsum dolor sit amet...](https://github.com) Authors: A, B, C, Conference: **CVPR 2020**
+
+  
 **By date**
 
    - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C,**CVPR 2020**
@@ -59,9 +422,24 @@ Assistant Professor, Department of Physical Education
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-  
+
+**International Talks**
+
+|------------|------|
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">NIPS WS</span>**, *2024.10*, Vancouver, Canada. | [Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data](talks/Hoop_MSSL.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ECSS</span>**, *2024.07*, Glasgow, Scotland. | [Explainable artificial intelligence model for identifying market value in professional soccer players](talks/Davison等.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ASCM</span>**, *2024.05*, Boston, USA. | [Using Interpretable Machine Learning to Predict Injury Risk Among Collegiate Male Basketball Players](talks/predictinjuryriskamongcollegiatemalebasketballplayers.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ASCM</span>**, *2024.05*, Boston, USA. | [Effects Of Caffeine Supplementation On Athletic Performance In Basketball: A Systematic Review And Meta Analysis](talks/Effectsofcaffeinesupplementationonathleticperformanceinbasketball.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ACSM</span>**, *2024.05*, Boston, USA. | [Enhancing fall risk prediction in Chinese older adults using explainable machine learning](talks/machinelearning331.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">Statsbomb</span>**, *2023.10*, Wembley, UK. | [Clustering Football Game Situations via Deep Representation Learning](talks/ClusteringFootballGameSituations.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">CIB</span>**, *2020.12*, En Cáceres, Spain. | [Modelling and simulation in game performances of basketball players and teams in the national basketball association](talks/Modellingandsimulation.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ECSS</span>**, *2018.07*, Dublin, Ireland. | [The interactive effects of situational variables on team performance in NBA](talks/Book of abstracts.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">CSS</span>**, *2017.10*,Barcelona, Spain. | [Performance Profiles of Basketball Players in NBA According to Anthropometric Attributes and Playing Experience](talks/Complexsystemsinsport.pdf) |
+| **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ECSS</span>**, *2016.07*, Vienna, Austria. | [Evaluating the quality of opposition in basketball games based on TOPSIS method](talks/BACA-2016.pdf) |
+
+
+
+
 # Lab
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PHD</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -85,7 +463,7 @@ Assistant Professor, Department of Physical Education
 
 **Research field**：Sports2
 
-**Research field**:
+**Feature article**:
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
