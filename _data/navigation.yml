@@ -1,5 +1,5 @@
 
-main/_pages/:
+main:
   - title: "About Me"
     url: "/#about-me"
 
