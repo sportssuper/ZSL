@@ -1,24 +1,22 @@
 
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#about-me"
 
   - title: "Publications"
-    url: "/#publications"  
-    children:
-      - title: "By topic"
-        url: "/#publications#by-topic"
-      - title: "By date"
-        url: "/#publications#by-date"
- 
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#publications"  
+
+  - title: "Projects"
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#projects"
+    
   - title: "Books"
-    url: "/#books"
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#books"
 
   - title: "Teaching"
-    url: "/#teaching"
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#teaching"
 
   - title: "Talks"
-    url: "/#talks"
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#talks"
 
   - title: "Lab"
-    url: "/#lab"
+    url: "https://github.com/Songuperman/ZSL/blob/main/_pages/about.md#lab"
