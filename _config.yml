@@ -22,11 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shaoliang Zhang"
-  avatar           : "images/figure.png"
+  avatar           : "images/figurev1.png"
   bio              : "Tsinghua University, Research Center for Athletic Performance and Data Science"
   location         : "Beijing, China"
 #employer         : "Tsinghua University"
-#  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+#  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=8gPmFskAAAAJ"
 #  email            : "Lorem@ipsum.com"
   researchgate     : "https://www.researchgate.net/profile/Shaoliang-Zhang-5"
   foursquare       :
