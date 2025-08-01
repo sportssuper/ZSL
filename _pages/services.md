@@ -12,8 +12,8 @@ redirect_from:
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
-  <img src="https://songuperman.github.io/ZSL/assets/chinafemale/1.jpg" 
-       alt="中国女篮" 
+  <img src="https://songuperman.github.io/ZSL/assets/chinafemale//1.jpg" 
+       alt="女篮" 
        style="width: 60%; height: auto;">
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
