@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Services/
+permalink: /services/
 author_profile: true
 redirect_from:
   - /resume
