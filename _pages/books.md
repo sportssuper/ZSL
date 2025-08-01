@@ -9,7 +9,7 @@ redirect_from:
 <div style="display: flex; gap: 40px; margin: 30px 0; align-items: center;">
   <!-- A4容器210:297 -->
   <div style="width: 15%; min-width: 200px; aspect-ratio: 210/297; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="/assets/images/book1.jpg" 
+    <img src="https://songuperman.github.io/ZSL/assets/images/book1.jpg" 
          alt="封面"
          style="width: 100%; height: 100%; object-fit: cover;">
   </div>
@@ -40,7 +40,7 @@ The publication of the English version of this book introduces China's original 
 <div style="display: flex; gap: 40px; margin: 30px 0; align-items: center;">
   <!-- A4容器210:297 -->
   <div style="width: 15%; min-width: 200px; aspect-ratio: 210/297; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <img src="/assets/images/book2.jpg" 
+    <img src="https://songuperman.github.io/ZSL/assets/images/book2.jpg" 
          alt="封面2"
          style="width: 100%; height: 100%; object-fit: cover;">
   </div>
