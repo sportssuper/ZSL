@@ -11,9 +11,9 @@ title                    : "Shaoliang Zhang|张绍良"
 title_separator          : "-"
 name                     : &name "Shaoliang Zhang"
 description              : &description "Tsinghua University, Research Center for Athletic Performance and Data Science"
-url                      : Songuperman/acad-homepage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://songuperman.github.io/ZSL/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Songuperman/acad-homepage.github.io"
+repository               : "ZSL"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
