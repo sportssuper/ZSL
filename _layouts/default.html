@@ -2,8 +2,10 @@
 layout: compress
 ---
 
+{% include base_path %}
+
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -14,21 +16,10 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
+    {{ content }}
 
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
-    </div>
 
     {% include scripts.html %}
-
     <div style="text-align: center; margin-top: 20px;">
       <div style="display: inline-block; width: 200px; height: 200px; overflow: hidden; transform: scale(0.5); transform-origin: top left;">
         <script type="text/javascript" id="clstr_globe"
@@ -36,5 +27,5 @@ layout: compress
         </script>
       </div>
     </div>
-
   </body>
+</html>
