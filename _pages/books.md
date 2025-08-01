@@ -10,7 +10,7 @@ redirect_from:
   <!-- A4容器210:297 -->
   <div style="width: 15%; min-width: 200px; aspect-ratio: 210/297; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <img src="https://songuperman.github.io/ZSL/assets/images/book1.jpg" 
-         alt="封面"
+         alt="book"
          style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
