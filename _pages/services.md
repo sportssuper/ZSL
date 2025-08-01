@@ -12,13 +12,13 @@ redirect_from:
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
-  <img src="/assets/Chinafemale/1.jpg" 
+  <img src="https://songuperman.github.io/ZSL/assets/Chinafemale/1.jpg" 
        alt="中国女篮" 
        style="width: 60%; height: auto;">
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      Chinese Women’s Basketball Team<br>中国女子篮球队
+      Chinese Women’s Basketball Team<br>女篮
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;">
       As a Sports Performance Analysis Specialist, my primary responsibilities include:<br><br>
@@ -34,12 +34,12 @@ redirect_from:
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <img src="/assets/Chinafemale/2.jpg" 
-       alt="中国女篮" 
+       alt="篮" 
        style="width: 60%; height: auto;">
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      Training Analysis<br>训练分析
+      Waiting<br>训练分析
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;">
       Key training monitoring techniques:<br><br>
