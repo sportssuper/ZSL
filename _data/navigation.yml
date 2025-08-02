@@ -25,5 +25,8 @@ main:
   - title: "Lab"
     url: /lab/
 
+  - title: "Graduates"
+    url: /terms/
+    
   # - title: "Group"
   #   url: /people/
