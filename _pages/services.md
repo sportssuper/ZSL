@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
-  <img src="https://songuperman.github.io/ZSL/assets/chinafemale//1.jpg" 
+  <img src="https://sportssuper.github.io/ZSL/assets/chinafemale//1.jpg" 
        alt="女篮" 
        style="width: 60%; height: auto;">
 
@@ -33,7 +33,7 @@ redirect_from:
 **Sports Performance Analysis Specialist**
 
 <div style="display: flex; gap: 20px; margin: 20px 0;">
-  <img src="https://songuperman.github.io/ZSL/assets/chinafemale/2.jpg" 
+  <img src="https://sportssuper.github.io/ZSL/assets/chinafemale/2.jpg" 
        alt="篮" 
        style="width: 60%; height: auto;">
 
