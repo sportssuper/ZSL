@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaoliang Zhang|张绍良"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Shaoliang Zhang"
 description              : &description "Tsinghua University, Research Center for Athletic Performance and Data Science"
