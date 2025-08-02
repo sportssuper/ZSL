@@ -18,7 +18,7 @@ redirect_from:
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      Chinese Female Basketball Team<br>女篮
+      Chinese Female Basketball Team<br>中国女篮
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;">
       As a Sports Performance Analysis Specialist, my primary responsibilities include:<br><br>
