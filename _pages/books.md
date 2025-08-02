@@ -25,7 +25,7 @@ The publication of the English version of this book introduces China's original 
 
     </p>
     <div style="margin-top: 12px; font-size: 14px; color: #666;">
-      <strong>Publisher:</strong> People's Sports Publishing House | <strong>Year:</strong> 2025 
+      <strong>Publisher:</strong> People's Sports Publishing House | Chapter 10 | <strong>Year:</strong> 2025 
     </div>
   </div>
 </div>
