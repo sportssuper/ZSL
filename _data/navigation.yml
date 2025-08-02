@@ -1,6 +1,8 @@
 # main links links
 main:
 
+  - title: "中文简介"
+    url: /intro/
     
   - title: "Publications"
     url: /publications/
