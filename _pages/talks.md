@@ -13,8 +13,9 @@ author_profile: true
        style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
-
 |-------------------------|
+| [Investigating Load Fluctuations Across Quarters in Male Professional Basketball Players: Implications for Game Performance and Strategy Optimization](talks/ecss25load.pdf) | **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ECSS, Rimini, Italy, 2025.06.</span>**|
+| [Interaction Effects of Physical Activity and Sleep Duration on Motoric Cognitive Risk Syndrome in Chinese Older Adults: A Population-Based Cohort Study](talks/ecss25gld.pdf) | **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ECSS, Rimini, Italy, 2025.06.</span>**|
 | [Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data](talks/Hoop_MSSL.pdf) | **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">NIPS WS, Vancouver, Canada, 2024.10.</span>**|
 | [Explainable artificial intelligence model for identifying market value in professional soccer players](talks/Davison等.pdf) | **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ECSS, Glasgow, Scotland, 2024.07</span>**|
 | [Using Interpretable Machine Learning to Predict Injury Risk Among Collegiate Male Basketball Players](talks/predictinjuryriskamongcollegiatemalebasketballplayers.pdf) | **<span style="background-color: #960DBD; color: white; padding: 1px 4px;">ASCM Boston, USA, 2024.05</span>**|
