@@ -28,7 +28,7 @@ redirect_from:
     • Designing customized reports to visualize performance metrics<br>
     </p>
     <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
-  Analytical Research|Basketball O's and X's strategy|Player Scouting Reports |Data Visualizations
+  Analytical Research|Data Visualizations|Player Scouting Reports|Basketball O's and X's strategy 
   </div>
   </div>
 </div>
@@ -54,7 +54,7 @@ redirect_from:
     • Designing customized reports to visualize performance metrics<br>
     </p>
  <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
-  Analytical Research|Basketball O's and X's strategy|Player Scouting Reports |Data Visualizations
+  Analytical Research|Data Visualizations|Player Scouting Reports|Basketball O's and X's strategy 
   </div>
     
   </div>
@@ -81,7 +81,7 @@ redirect_from:
     • Designing customized reports to visualize performance metrics<br>
     </p>
   <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
-  Analytical Research|Basketball O's and X's strategy|Player Scouting Reports |Data Visualizations
+  Analytical Research|Data Visualizations|Player Scouting Reports|Basketball O's and X's strategy 
   </div>
     
   </div>
