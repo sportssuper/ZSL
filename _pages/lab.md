@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Lab"
+title: ""
 permalink: /lab/
 author_profile: true
 ---
