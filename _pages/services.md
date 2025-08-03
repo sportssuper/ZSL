@@ -27,7 +27,7 @@ redirect_from:
     • Providing feedback to coaching staff during competitions<br>
     • Designing customized reports to visualize performance metrics<br>
     </p>
-    <div style="margin-top: 20px; font-size: 10px; font-weight: 600; color: #555; letter-spacing: 0.5px;">
+    <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
   Analytical Research|Basketball O's and X's strategy|Player Scouting Reports |Data Visualizations
   </div>
   </div>
@@ -53,7 +53,7 @@ redirect_from:
     • Providing feedback to coaching staff during competitions<br>
     • Designing customized reports to visualize performance metrics<br>
     </p>
- <div style="margin-top: 20px; font-size: 10px; font-weight: 600; color: #555; letter-spacing: 0.5px;">
+ <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
   Analytical Research|Basketball O's and X's strategy|Player Scouting Reports |Data Visualizations
   </div>
     
@@ -80,7 +80,7 @@ redirect_from:
     • Providing feedback to coaching staff during competitions<br>
     • Designing customized reports to visualize performance metrics<br>
     </p>
-  <div style="margin-top: 20px; font-size: 10px; font-weight: 600; color: #555; letter-spacing: 0.5px;">
+  <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
   Analytical Research|Basketball O's and X's strategy|Player Scouting Reports |Data Visualizations
   </div>
     
