@@ -67,7 +67,7 @@ This is an important reference for any active researcher or upper-level student
 in sport and exercise science with an interest in mathematical modelling, computer science or simulation techniques.
     </p>
     <div style="margin-top: 12px; font-size: 14px; color: #666;">
-      <strong>Publisher:</strong> Routledge | <strong>Year:</strong> 2023 
+      <strong>Publisher:</strong> Routledge | Chapter 6 | <strong>Year:</strong> 2023 
     </div>
   </div>
 </div>
