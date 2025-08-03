@@ -5,10 +5,13 @@ permalink: /lab/
 author_profile: true
 ---
 
+# PHD 
+
+  <!-- 李明 -->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
-    <img src='https://sportssuper.github.io/ZSL/assets/images/Ming-Li.png' alt="ML" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/Ming-Li.png' alt="Ming Li" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   
   <!-- wd l -->
@@ -20,5 +23,11 @@ author_profile: true
     </p>
   </div>
 </div>
+
+  <!-- 底部装饰线 -->
+<hr style="border: 0; border-top: 1px solid #eee; border-bottom: 1px solid #ddd; margin: 20px 0;">
+
+# Master
+
 
 
