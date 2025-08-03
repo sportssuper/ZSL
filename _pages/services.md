@@ -14,9 +14,9 @@ redirect_from:
 
   <img src="https://sportssuper.github.io/ZSL/assets/chinafemale/1.jpg" 
        alt="女篮" 
-       style="width: 60%; height: auto;">
+       style="width: 30%; height: auto;">
 
-  <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div style="width: 70%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       Chinese Female Basketball Team<br>中国国家女子篮球队
     </h3>
@@ -40,9 +40,9 @@ redirect_from:
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu1.jpg" 
        alt="男篮" 
-       style="width: 60%; height: auto;">
+       style="width: 30%; height: auto;">
 
-  <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div style="width: 70%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       THU Male Basketball Team<br>清华大学男子篮球队
     </h3>
@@ -67,9 +67,9 @@ redirect_from:
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu2.jpg" 
        alt="女篮" 
-       style="width: 60%; height: auto;">
+       style="width: 30%; height: auto;">
 
-  <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div style="width: 70%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       THU Female Basketball Team<br>清华大学女子篮球队
     </h3>
