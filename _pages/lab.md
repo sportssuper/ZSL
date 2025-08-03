@@ -17,7 +17,7 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name:</strong>Ming Li<br>
       <strong>Status:</strong>2025 PhD<br>
-      <strong>Research field:</strong>Sports Performance Analysis; Sports Statistics; Basketball
+      <strong>Awards:</strong>研究生国家奖学金, 清华大学校级综合奖学金
     </p>
   </div>
 </div>
