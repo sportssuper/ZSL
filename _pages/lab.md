@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "PHD"
 permalink: /lab/
 author_profile: true
 ---
-
-# PHD 
 
   <!-- 李明 -->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
