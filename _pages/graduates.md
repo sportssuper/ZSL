@@ -31,7 +31,8 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Peng Lu<br>
       <strong>Graduation year: </strong>2023<br>
-      <strong>Employer: </strong>政府公务人员
+      <strong>Employer: </strong>政府公务人员<br>
+      <strong>Remarks: </strong>大有前途，我的希望。
     </p>
   </div>
 </div>
@@ -48,7 +49,8 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Jiaxiao Han<br>
       <strong>Graduation year: </strong>2024<br>
-      <strong>Employer: </strong>政府公务人员
+      <strong>Employer: </strong>政府公务人员<br>
+      <strong>Remarks: </strong>毕业后刮目相看，好孩子。
     </p>
   </div>
 </div>
@@ -66,7 +68,8 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Danluona Rong<br>
       <strong>Graduation year: </strong>2024<br>
-      <strong>Employer: </strong>内蒙古银行总行
+      <strong>Employer: </strong>内蒙古银行总行<br>
+      <strong>Remarks: </strong>时常回来看我，让我动不动训一顿。
     </p>
   </div>
 </div>
@@ -84,7 +87,8 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Li Yan<br>
       <strong>Graduation year: </strong>2024<br>
-      <strong>Employer: </strong>联合国人口基金会性别部门项目助理
+      <strong>Employer: </strong>联合国人口基金会性别部门项目助理<br>
+      <strong>Remarks: </strong>疯丫头，我没管好，失职。
     </p>
   </div>
 </div>
@@ -103,7 +107,8 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Xiaoyang Zhong<br>
       <strong>Graduation year: </strong>2025<br>
-      <strong>Employer: </strong>中国工商银行北京市分行
+      <strong>Employer: </strong>中国工商银行北京市分行<br>
+      <strong>Remarks: </strong>科研扎实，球打得好，爱睡觉耽误我事!
     </p>
   </div>
 </div>
