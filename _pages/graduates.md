@@ -15,3 +15,96 @@ author_profile: true
     师生之缘，是一种难以言喻的情感，如同爱情般微妙而珍贵。茫茫人海，有千千万万个老师，也有千千万万个学生，为何你会成为我的学生？这是命运的馈赠，是时光最温柔的安排，此生最深的幸福，莫过于此。
   </p> -->
 </div>
+
+
+
+
+ <!--lp -->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/lp.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- lp-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Peng Lu<br>
+      <strong>Graduation year: </strong>2023<br>
+      <strong>Employer: </strong>政府公务人员
+    </p>
+  </div>
+</div>
+
+ <!--hjx-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/hjx.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- hjx-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Jiaxiao Han<br>
+      <strong>Graduation year: </strong>2024<br>
+      <strong>Employer: </strong>政府公务人员
+    </p>
+  </div>
+</div>
+
+
+ <!--Danluona Rong-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/rlln.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- Danluona Rong-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Danluona Rong<br>
+      <strong>Graduation year: </strong>2024<br>
+      <strong>Employer: </strong>内蒙古银行总行
+    </p>
+  </div>
+</div>
+
+
+ <!--Li Yan-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/yl.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- Li Yan-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Li Yan<br>
+      <strong>Graduation year: </strong>2024<br>
+      <strong>Employer: </strong>联合国人口基金会性别部门项目助理
+    </p>
+  </div>
+</div>
+
+
+
+ <!--Xiaoyang Zhong-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/zxy.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- Xiaoyang Zhong-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Xiaoyang Zhong<br>
+      <strong>Graduation year: </strong>2025<br>
+      <strong>Employer: </strong>中国工商银行北京市分行
+    </p>
+  </div>
+</div>
+
