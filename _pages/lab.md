@@ -16,7 +16,6 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Ming Li<br>
-      <strong>Status: </strong>2025 PhD<br>
       <strong>Awards: </strong>研究生国家奖学金, 清华大学校级综合奖学金
     </p>
   </div>
@@ -38,7 +37,6 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Linda Gu<br>
-      <strong>Status: </strong>2023 Master<br>
       <strong>Awards: </strong>清华大学研究生综合奖学金
     </p>
   </div>
@@ -57,8 +55,27 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Yilin Song<br>
-      <strong>Status: </strong>2023 Master<br>
       <strong>Awards: </strong>四川省政府一带一路奖学金, 清华大学全额学费奖学金
     </p>
   </div>
 </div>
+
+  <!-- chutianyi.jpg -->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/cty.jpg' alt="yilin" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+
+  <!-- wd l -->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Tianyi Chu<br>
+      <strong>Awards: </strong>2023国家励志奖、2022清华大学校设奖学金—学业优秀奖、2021清华大学校设奖学金—体育优秀奖，第22、23、24、26届中国大学生篮球联赛全国总冠军
+    </p>
+  </div>
+</div>
+
+
+
+
