@@ -1,9 +1,26 @@
 ---
 layout: archive
-title: "Project"
+title: ""
 permalink: /project/
 author_profile: true
 ---
+
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
+</style>
+
+
+<h1 style="font-family: 'Times New Roman', Times, serif; text-align: left; margin-bottom: 20px;">Project</h1>
+
+
 
 |**Funding Source**|**Research Title**|**Position**|
 |----------|------------|-----|
