@@ -28,7 +28,7 @@ author_profile: true
   
   <!-- lp-->
   <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;">
+    <p style="margin: 0; line-height: 1.5;font-size: 12px;">
       <strong>Name: </strong>Peng Lu<br>
       <strong>Graduation year: </strong>2023<br>
       <strong>Employer: </strong>政府公务人员<br>
@@ -46,7 +46,7 @@ author_profile: true
   
   <!-- hjx-->
   <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;">
+    <p style="margin: 0; line-height: 1.5;font-size: 12px;">
       <strong>Name: </strong>Jiaxiao Han<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>政府公务人员<br>
@@ -65,7 +65,7 @@ author_profile: true
   
   <!-- Danluona Rong-->
   <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;">
+    <p style="margin: 0; line-height: 1.5;font-size: 12px;">
       <strong>Name: </strong>Danluona Rong<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>内蒙古银行总行<br>
@@ -84,11 +84,11 @@ author_profile: true
   
   <!-- Li Yan-->
   <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;">
+    <p style="margin: 0; line-height: 1.5;font-size: 12px;">
       <strong>Name: </strong>Li Yan<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>联合国人口基金会性别部门项目助理<br>
-      <strong>Remarks: </strong>疯丫头，我没管好，失职。
+      <strong>Remarks: </strong>满世界乱跑 我没管好
     </p>
   </div>
 </div>
@@ -104,11 +104,11 @@ author_profile: true
   
   <!-- Xiaoyang Zhong-->
   <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;">
+    <p style="margin: 0; line-height: 1.5;font-size: 12px;">
       <strong>Name: </strong>Xiaoyang Zhong<br>
       <strong>Graduation year: </strong>2025<br>
       <strong>Employer: </strong>中国工商银行北京市分行<br>
-      <strong>Remarks: </strong>科研扎实，球打得好，爱睡觉耽误我事!
+      <strong>Remarks: </strong>爱睡觉耽误我事
     </p>
   </div>
 </div>
