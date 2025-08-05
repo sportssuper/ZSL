@@ -1,10 +1,23 @@
 ---
 layout: archive
-title: "PHD"
+title: ""
 permalink: /lab/
 author_profile: true
 ---
 
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
+</style>
+
+# PHD
   <!-- 李明 -->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
