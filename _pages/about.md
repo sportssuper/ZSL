@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
+<h1 style="font-family: 'Times New Roman', Times, serif; text-align: left; margin-bottom: 20px;">About me</h1>
 
-<div style="text-align: justify; font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; line-height: 1.6; hyphens: auto;">
+<div style="text-align: justify; font-family: 'Times New Roman', Times, serif; max-width: 800px; margin: 0 auto; line-height: 1.6; hyphens: auto;">
   <p style="margin-bottom: 1em;">Shaoliang Zhang is an Assistant Professor in the Department of Physical Education and Sport Science at Tsinghua University, a doctoral supervisor, and a Tsinghua University Zhongying Young Scholar. He was awarded the Tsinghua University Teaching Excellence Award in 2024.</p>
 
   <p style="margin-bottom: 1em;">Dr. Zhang received his Ph.D. from the Faculty of Sciences for Physical Activity and Sport (INEF) at the Technical University of Madrid, Spain. He holds a Master's degree from South China Normal University (Guangzhou, China) and a Bachelor's degree from Yan'an University (Shaanxi, China).</p>
@@ -29,7 +29,6 @@ redirect_from:
 
   <p>Below is a list of our academic collaborators and institutional partners. We are always eager to welcome like-minded, motivated individuals to our team. Top-performing students from our lab are regularly recommended for internships and training opportunities with world-class basketball clubs. We warmly invite you to join us.</p>
 </div>
-
 
 
 
