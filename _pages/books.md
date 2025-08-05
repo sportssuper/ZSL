@@ -1,11 +1,28 @@
 ---
 layout: archive
 permalink: /books/
-title: "Books"
+title: ""
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
+</style>
+
+
+<h1 style="font-family: 'Times New Roman', Times, serif; text-align: left; margin-bottom: 20px;">Books</h1>
+
+
 <div style="display: flex; gap: 40px; margin: 30px 0; align-items: center;">
   <!-- A4容器210:297 -->
   <div style="width: 15%; min-width: 200px; aspect-ratio: 210/297; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
