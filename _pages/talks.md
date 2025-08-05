@@ -5,6 +5,19 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
+</style>
+
+
 **• International Talks** 
 
 <div style="width: 100%; margin: 20px 0;">
