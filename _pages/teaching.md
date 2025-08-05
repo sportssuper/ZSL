@@ -4,9 +4,20 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
+</style>
 
 <!-- 第一个图文区块：Sports Performance Analysis -->
-<div style="display: flex; gap: 40px; margin: 30px 0; align-items: center; font-family: 'Segoe UI', Arial, sans-serif; max-width: 1200px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; gap: 40px; margin: 30px 0; align-items: center; max-width: 1200px; margin-left: auto; margin-right: auto;">
   <!-- 图片容器 -->
   <div style="width: 45%; min-width: 300px; aspect-ratio: 3/2; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
     <img src="https://sportssuper.github.io/ZSL/assets/images/T1.jpg" 
@@ -39,7 +50,7 @@ author_profile: true
 </div>
 
 <!-- 第二个图文区块：Monitoring Training Load -->
-<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center; font-family: 'Segoe UI', Arial, sans-serif; max-width: 1200px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center; max-width: 1200px; margin-left: auto; margin-right: auto;">
   <!-- 图片容器 -->
   <div style="width: 45%; min-width: 300px; aspect-ratio: 3/2; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
     <img src="https://sportssuper.github.io/ZSL/assets/images/T2.jpg" 
@@ -76,7 +87,7 @@ author_profile: true
 </div>
 
 <!-- 第三个图文区块：Basketball Scouting -->
-<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center; font-family: 'Segoe UI', Arial, sans-serif; max-width: 1200px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center;  max-width: 1200px; margin-left: auto; margin-right: auto;">
   <!-- 图片容器 -->
   <div style="width: 45%; min-width: 300px; aspect-ratio: 3/2; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
     <img src="https://sportssuper.github.io/ZSL/assets/images/T3.jpg" 
@@ -113,7 +124,7 @@ author_profile: true
 
 
 <!-- 第四个图文区块：AI for Academic Research in Sport and Exercise Sciecne-->
-<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center; font-family: 'Segoe UI', Arial, sans-serif; max-width: 1200px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center; max-width: 1200px; margin-left: auto; margin-right: auto;">
   <!-- 图片容器 -->
   <div style="width: 45%; min-width: 300px; aspect-ratio: 3/2; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
     <img src="https://sportssuper.github.io/ZSL/assets/images/T4.jpg" 
@@ -153,7 +164,7 @@ author_profile: true
 
 
 <!-- 第五个图文区块：Testing in Sport Science -->
-<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center; font-family: 'Segoe UI', Arial, sans-serif; max-width: 1200px; margin-left: auto; margin-right: auto;">
+<div style="display: flex; gap: 40px; margin: 60px 0 30px 0; align-items: center;  max-width: 1200px; margin-left: auto; margin-right: auto;">
   <!-- 图片容器 -->
   <div style="width: 45%; min-width: 300px; aspect-ratio: 3/2; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
     <img src="https://sportssuper.github.io/ZSL/assets/images/T5.jpg" 
