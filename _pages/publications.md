@@ -5,20 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 <style>
-table th:first-of-type {
-    width: 40%;
-}
-table th:nth-of-type(2) {
-    width: 20%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-table th:nth-of-type(4) {
-    width: 20%;
-}
+
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  /* table */
+  table th:first-of-type { width: 40%; }
+  table th:nth-of-type(2) { width: 20%; }
+  table th:nth-of-type(3) { width: 20%; }
+  table th:nth-of-type(4) { width: 20%; }
+  /* 字体 */
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  /* 等宽 */
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
 </style>
 
+<h1 style="font-family: 'Times New Roman', Times, serif; text-align: left; margin-bottom: 20px;">Publications</h1>
 
 
 **• Technical–Tactical Diagnosis** 
