@@ -6,6 +6,21 @@ redirect_from:
   - /resume
 ---
 
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  h1, h2, h3, p, table, span, a {
+    font-family: inherit !important;
+  }
+  code, pre {
+    font-family: 'Courier New', monospace !important;
+  }
+</style>
+
+
+
+
 {% include base_path %}
 
 **Chinese Female Basketball Team - Sports Performance Analysis Specialist**
