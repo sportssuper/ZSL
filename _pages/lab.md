@@ -30,7 +30,7 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Yuyu Xia<br>
-      <strong>Awards: </strong><span style="display: inline-block; margin-left: 70px; text-indent: -70px; vertical-align: top;">曾获清华大学综合奖学金, 国家励志奖学金, 社科学院院长奖学金, 中国大学生自强之星奖学金等奖项, 31届世界大学生运动会先进个人, 北京市三八红旗手奖章, 北京市委市政府给予表扬奖励, 中国大学生自强之星标兵, 贵州省"新时代贵州人"模范奖励, 清华大学年度人物, 清华大学社科学院年度人物</span>
+      <strong>Awards: </strong><span style="display: inline-block; padding-left: 6em; text-indent: -6em; vertical-align: top;">曾获清华大学综合奖学金, 国家励志奖学金, 社科学院院长奖学金, 中国大学生自强之星奖学金等奖项, 31届世界大学生运动会先进个人, 北京市三八红旗手奖章, 北京市委市政府给予表扬奖励, 中国大学生自强之星标兵, 贵州省"新时代贵州人"模范奖励, 清华大学年度人物, 清华大学社科学院年度人物</span>
     </p>
   </div>
 </div>
@@ -101,7 +101,7 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Tianyi Chu<br>
-      <strong>Awards: </strong><span style="display: inline-block; margin-left: 70px; text-indent: -70px; vertical-align: top;">国家励志奖，清华大学校设奖学金—学业优秀奖，清华大学校设奖学金—体育优秀奖，第22、23、24、26届中国大学生篮球联赛全国总冠军</span>
+      <strong>Awards: </strong><span style="display: inline-block; padding-left: 6em; text-indent: -6em; vertical-align: top;">国家励志奖，清华大学校设奖学金—学业优秀奖，清华大学校设奖学金—体育优秀奖，第22、23、24、26届中国大学生篮球联赛全国总冠军</span>
     </p>
   </div>
 </div>
