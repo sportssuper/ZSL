@@ -18,6 +18,24 @@ author_profile: true
 </style>
 
 # PHD
+
+  <!-- xyy -->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/xyy.jpg' alt="Ming Li" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+
+  <!-- wd l -->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;">
+      <strong>Name: </strong>Yuyu Xia<br>
+      <strong>Awards: </strong>曾获清华大学综合奖学金, 国家励志奖学金, 社科学院院长奖学金, 中国大学生自强之星奖学金等奖项,31届世界大学生运动会先进个人, 北京市三八红旗手奖章, 北京市委市政府给予表扬奖励, 中国大学生自强之星标兵, 贵州省“新时代贵州人”模范奖励, 清华大学年度人物, 清华大学社科学院年度人物
+
+    </p>
+  </div>
+</div>
+
   <!-- 李明 -->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
