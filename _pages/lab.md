@@ -46,7 +46,7 @@ author_profile: true
   <!-- wd l -->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
-      <strong>Name: </strong>Ming Li(李明)<br>
+      <strong>Name: </strong>Ming Li (李明)<br>
       <strong>Awards: </strong>研究生国家奖学金, 清华大学研究生综合奖学金
     </p>
   </div>
@@ -67,7 +67,7 @@ author_profile: true
   <!-- wd l -->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
-      <strong>Name: </strong>Linda Gu(辜琳达)<br>
+      <strong>Name: </strong>Linda Gu (辜琳达)<br>
       <strong>Awards: </strong>清华大学研究生综合奖学金
     </p>
   </div>
@@ -84,7 +84,7 @@ author_profile: true
   <!-- wd l -->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
-      <strong>Name: </strong>Yilin Deng(邓薏琳)<br>
+      <strong>Name: </strong>Yilin Deng (邓薏琳)<br>
       <strong>Awards: </strong>四川省政府一带一路奖学金, 清华大学全额学费奖学金
     </p>
   </div>
@@ -100,7 +100,7 @@ author_profile: true
   <!-- wd l -->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
-      <strong>Name: </strong>Tianyi Chu(褚添一)<br>
+      <strong>Name: </strong>Tianyi Chu (褚添一)<br>
       <strong>Awards: </strong><br>
       国家励志奖，清华大学学业优秀奖，清华大学体育优秀奖，第22、23、24、26届中国大学生篮球联赛全国总冠军
     </p>
