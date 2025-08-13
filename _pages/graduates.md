@@ -22,7 +22,7 @@ author_profile: true
 
 # 学生培养
 
-<div style="position: relative; padding: 25px; background: linear-gradient(to bottom, #fff, #f8f8f8); border-radius: 8px; font-family: 'Times New Roman', Times, serif; color: #333; line-height: 1.8; box-shadow: 0 1px 1px rgba(0,0,0,0.02);font-size: 16px;">
+<div style="position: relative; padding: 25px; background: linear-gradient(to bottom, #fff, #f8f8f8); border-radius: 8px; font-family: 'Times New Roman', Times, serif; color: #333; line-height: 1.8; box-shadow: 0 1px 1px rgba(0,0,0,0.02);font-size: 18px;">
   <p style="margin: 0 0 20px 0; text-indent: 2em;">
     文章永远写不完，项目总是做不尽。这条求索之路没有尽头，但作为老师，最大的幸福与财富，从不在于发表了多少成果、完成了多少课题，而是看到我的学生们，怀抱理想，脚踏实地，在各自的岗位上默默耕耘、不断奋斗——为中华民族的伟大复兴添砖加瓦。
   </p>
@@ -44,10 +44,10 @@ author_profile: true
   <!-- lp-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Peng Lu<br>
+      <strong>Name: </strong>Peng Lu(卢鹏)<br>
       <strong>Graduation year: </strong>2023<br>
       <strong>Employer: </strong>政府公务人员<br>
-      <strong>Remarks: </strong>大有前途，我的希望。
+      <strong>Remarks: </strong>大有前途，我的希望！
     </p>
   </div>
 </div>
@@ -62,10 +62,10 @@ author_profile: true
   <!-- hjx-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Jiaxiao Han<br>
+      <strong>Name: </strong>Jiaxiao Han(韩佳孝)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>政府公务人员<br>
-      <strong>Remarks: </strong>毕业后刮目相看，好孩子。
+      <strong>Remarks: </strong>毕业后刮目相看，好孩子！
     </p>
   </div>
 </div>
@@ -81,10 +81,10 @@ author_profile: true
   <!-- Danluona Rong-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Danluona Rong<br>
+      <strong>Name: </strong>Danluona Rong(荣丹罗娜)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>内蒙古银行总行<br>
-      <strong>Remarks: </strong>时常回来看我，让我动不动训一顿。
+      <strong>Remarks: </strong>时常回来看我，让我动不动训一顿!
     </p>
   </div>
 </div>
@@ -100,7 +100,7 @@ author_profile: true
   <!-- Li Yan-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Li Yan<br>
+      <strong>Name: </strong>Li Yan(晏莉)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>联合国人口基金会性别部门项目助理<br>
       <strong>Remarks: </strong>疯丫头，满世界乱跑，我没管好！
@@ -120,7 +120,7 @@ author_profile: true
   <!-- Xiaoyang Zhong-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Xiaoyang Zhong<br>
+      <strong>Name: </strong>Xiaoyang Zhong(钟晓阳)<br>
       <strong>Graduation year: </strong>2025<br>
       <strong>Employer: </strong>中国工商银行北京市分行<br>
       <strong>Remarks: </strong>科研扎实，球打得好，爱睡觉耽误事！
@@ -139,10 +139,10 @@ author_profile: true
   <!-- tzt-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Zitian Tang<br>
+      <strong>Name: </strong>Zitian Tang(唐梓天)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>美国布朗大学<br>
-      <strong>Remarks: </strong>智商太高，极其聪明。
+      <strong>Remarks: </strong>智商太高，极其聪明!
     </p>
   </div>
 </div>
@@ -158,10 +158,10 @@ author_profile: true
   <!-- tzt-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Jianchong Shao<br>
+      <strong>Name: </strong>Jianchong Shao(邵健冲)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>德国慕尼黑工业大学<br>
-      <strong>Remarks: </strong>仁义、感恩、超爱篮球。
+      <strong>Remarks: </strong>仁义、感恩、超爱篮球!
     </p>
   </div>
 </div>
@@ -178,10 +178,10 @@ author_profile: true
   <!-- cyh-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Chunyang Huang<br>
+      <strong>Name: </strong>Chunyang Huang(黄春阳)<br>
       <strong>Graduation year: </strong>2025<br>
       <strong>Employer: </strong>艾托邦人工智能科技有限公司<br>
-      <strong>Remarks: </strong>普通本科生，深蹲150kg。
+      <strong>Remarks: </strong>普通本科生，深蹲150kg!
     </p>
   </div>
 </div>
