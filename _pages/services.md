@@ -118,16 +118,6 @@ redirect_from:
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
       In my role supporting the Tsinghua University High School men’s basketball team, I apply countermovement jump (CMJ) testing to monitor player readiness. Key metrics—including RSI Mod, FT:CT, jump height, and impulse—assist in fatigue detection, recovery tracking, and differentiating acute from chronic load responses, while also linking to sprint speed, maximal strength, and explosive power.<br>
-<!--     • Neuromuscular Fatigue Detection: Beyond jump height, metrics such as Reactive Strength Index Modified (RSI
-Mod) and Flight Time to Contraction Time (FT:CT) reveal subtle changes in movement strategy linked to fatigue.<br>
-    • Acute vs. Chronic Load Response: CMJ variables distinguish between responses to acute (short-term) and chronic (long-term) training loads, with jump duration measures often more sensitive to acute fatigue, and others reflecting long-term adaptation.<br>
-    • Monitoring Recovery: Indicators like jump height and impulse track post-training or post-competition recovery, informing adjustments to avoid overtraining.<br>
-    • Relationship to Performance: CMJ performance correlates with sprint speed, maximal strength (1RM), and explosive power, making it a reliable marker of overall readiness for competition.<br>
-    </p>
-<!--   <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
-  Analytical Research|Data Visualizations|Player Scouting Reports|Basketball O's and X's strategy 
-  </div> --> -->
-    
   </div>
 </div>
 
