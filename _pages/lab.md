@@ -102,7 +102,7 @@ author_profile: true
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Tianyi Chu(褚添一)<br>
       <strong>Awards: </strong><br>
-      国家励志奖，清华大学校设奖学金—学业优秀奖，清华大学校设奖学金—体育优秀奖，第22、23、24、26届中国大学生篮球联赛全国总冠军</span>
+      国家励志奖，清华大学校设奖学金—学业优秀奖，清华大学校设奖学金—体育优秀奖，第22、23、24、26届中国大学生篮球联赛全国总冠军
     </p>
   </div>
 </div>
