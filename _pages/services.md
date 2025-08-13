@@ -24,7 +24,7 @@ redirect_from:
 {% include base_path %}
 
 **Chinese Female Basketball Team - Sports Performance Analysis Specialist**
-
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL/assets/chinafemale/1.jpg" 
@@ -49,10 +49,10 @@ redirect_from:
   </div> -->
   </div>
 </div>
-
+</div>
 
 **Tsinghua University Male Basketball Team - Sports Performance Analysis Specialist**
-
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu1.jpg" 
@@ -76,10 +76,10 @@ redirect_from:
     
   </div>
 </div>
-
+</div>
 
 **Tsinghua University Female Basketball Team - Sports Performance Analysis Specialist**
-
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu2.jpg" 
@@ -107,11 +107,11 @@ redirect_from:
     
   </div>
 </div>
-
+</div>
 
 
 **Tsinghua University High School Basketball Team - Sports Performance Analysis Specialist**
-
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu3.jpg" 
@@ -134,7 +134,7 @@ redirect_from:
 
   </div>
 </div>
-
+</div>
 
 
 
