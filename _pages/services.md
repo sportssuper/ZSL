@@ -117,11 +117,12 @@ redirect_from:
       THU High School Basketball Team<br>清华大学附属中学篮球队
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;">
-      As a Sports Performance Analysis Specialist, my primary responsibilities include:<br><br>
-    • Conducting technical and tactical video analysis to identify key performance patterns<br>
-    • Implementing advanced motion tracking systems for training monitoring<br>
-    • Providing feedback to coaching staff during competitions<br>
-    • Designing customized reports to visualize performance metrics<br>
+      As a Sports Performance Analysis Specialist, I use the countermovement jump (CMJ) to monitor and optimize athlete performance.<br>
+    • Neuromuscular Fatigue Detection: Beyond jump height, metrics such as Reactive Strength Index Modified (RSI
+Mod) and Flight Time to Contraction Time (FT:CT) reveal subtle changes in movement strategy linked to fatigue.<br>
+    • Acute vs. Chronic Load Response: CMJ variables distinguish between responses to acute (short-term) and chronic (long-term) training loads, with jump duration measures often more sensitive to acute fatigue, and others reflecting long-term adaptation.<br>
+    • Monitoring Recovery: Indicators like jump height and impulse track post-training or post-competition recovery, informing adjustments to avoid overtraining.<br>
+    • Relationship to Performance: CMJ performance correlates with sprint speed, maximal strength (1RM), and explosive power, making it a reliable marker of overall readiness for competition.<br>
     </p>
 <!--   <div style="margin-top: 20px; font-size: 14px; font-weight: 600; color: #666; letter-spacing: 0.3px;">
   Analytical Research|Data Visualizations|Player Scouting Reports|Basketball O's and X's strategy 
