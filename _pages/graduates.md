@@ -181,7 +181,7 @@ author_profile: true
       <strong>Name: </strong>Chunyang Huang (黄春阳)<br>
       <strong>Graduation year: </strong>2025<br>
       <strong>Employer: </strong>艾托邦人工智能科技有限公司<br>
-      <strong>Remarks: </strong>普通本科生，深蹲150kg!
+      <strong>Remarks: </strong>喜爱健身，普通本科生，深蹲150kg!
     </p>
   </div>
 </div>
