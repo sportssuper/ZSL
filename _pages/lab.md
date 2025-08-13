@@ -109,10 +109,10 @@ author_profile: true
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
-    <img src='https://sportssuper.github.io/ZSL/assets/images/syy.jpg' alt="yilin" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/syy.jpg' alt="syy" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
-  <!-- wd l -->
+  <!-- w-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Yuanyuan Su (苏源圆)<br>
