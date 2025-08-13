@@ -44,7 +44,7 @@ author_profile: true
   <!-- lp-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Peng Lu(卢鹏)<br>
+      <strong>Name: </strong>Peng Lu (卢鹏)<br>
       <strong>Graduation year: </strong>2023<br>
       <strong>Employer: </strong>政府公务人员<br>
       <strong>Remarks: </strong>大有前途，我的希望！
@@ -62,7 +62,7 @@ author_profile: true
   <!-- hjx-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Jiaxiao Han(韩佳孝)<br>
+      <strong>Name: </strong>Jiaxiao Han (韩佳孝)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>政府公务人员<br>
       <strong>Remarks: </strong>毕业后刮目相看，好孩子！
@@ -81,7 +81,7 @@ author_profile: true
   <!-- Danluona Rong-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Danluona Rong(荣丹罗娜)<br>
+      <strong>Name: </strong>Danluona Rong (荣丹罗娜)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>内蒙古银行总行<br>
       <strong>Remarks: </strong>时常回来看我，让我动不动训一顿!
@@ -100,7 +100,7 @@ author_profile: true
   <!-- Li Yan-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Li Yan(晏莉)<br>
+      <strong>Name: </strong>Li Yan (晏莉)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>联合国人口基金会性别部门项目助理<br>
       <strong>Remarks: </strong>疯丫头，满世界乱跑，我没管好！
@@ -120,7 +120,7 @@ author_profile: true
   <!-- Xiaoyang Zhong-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Xiaoyang Zhong(钟晓阳)<br>
+      <strong>Name: </strong>Xiaoyang Zhong (钟晓阳)<br>
       <strong>Graduation year: </strong>2025<br>
       <strong>Employer: </strong>中国工商银行北京市分行<br>
       <strong>Remarks: </strong>科研扎实，球打得好，爱睡觉耽误事！
@@ -139,7 +139,7 @@ author_profile: true
   <!-- tzt-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Zitian Tang(唐梓天)<br>
+      <strong>Name: </strong>Zitian Tang (唐梓天)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>美国布朗大学<br>
       <strong>Remarks: </strong>智商太高，极其聪明!
@@ -158,7 +158,7 @@ author_profile: true
   <!-- tzt-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Jianchong Shao(邵健冲)<br>
+      <strong>Name: </strong>Jianchong Shao (邵健冲)<br>
       <strong>Graduation year: </strong>2024<br>
       <strong>Employer: </strong>德国慕尼黑工业大学<br>
       <strong>Remarks: </strong>仁义、感恩、超爱篮球!
@@ -178,7 +178,7 @@ author_profile: true
   <!-- cyh-->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Chunyang Huang(黄春阳)<br>
+      <strong>Name: </strong>Chunyang Huang (黄春阳)<br>
       <strong>Graduation year: </strong>2025<br>
       <strong>Employer: </strong>艾托邦人工智能科技有限公司<br>
       <strong>Remarks: </strong>普通本科生，深蹲150kg!
