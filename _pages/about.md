@@ -14,7 +14,7 @@ redirect_from:
 
   <p style="margin-bottom: 1em;">Dr. Zhang received his Ph.D. from the Faculty of Sciences for Physical Activity and Sport (INEF) at the Technical University of Madrid, Spain. He holds a Master's degree from South China Normal University (Guangzhou, China) and a Bachelor's degree from Yan'an University (Shaanxi, China).</p>
 
-  <p style="margin-bottom: 1em;">During his doctoral studies, Dr. Zhang served as a performance analyst for Real Madrid C.F. and the Spanish national youth football teams (U8-U20). Upon returning to China, he worked as a performance analyst for the Chinese Women's National Basketball Team as well as the Tsinghua University men's and women's basketball teams.</p>
+  <p style="margin-bottom: 1em;">During his doctoral studies, Dr. Zhang served as a performance analyst for Real Madrid C.F. and the Spanish national youth football teams (U18-U20). Upon returning to China, he worked as a performance analyst for the Chinese Women's National Basketball Team as well as the Tsinghua University men's and women's basketball teams.</p>
 
   <p style="margin-bottom: 1em;">His primary research interests include:<br>
  • The integration of wearable technology, artificial intelligence, and big data in sports science<br>
