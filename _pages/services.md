@@ -130,7 +130,6 @@ redirect_from:
 <br>
     3. Physical Performance Correlation<br>
    Analyze relationships between CMJ performance and sprint speed, maximal strength (1RM), and explosive power, providing a reliable marker of overall athletic readiness for competition and targeted physical development.
-
     </p>
 
   </div>
