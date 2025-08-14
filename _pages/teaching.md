@@ -33,17 +33,17 @@ author_profile: true
       Sports Performance Analysis
     </h2>
     
-    <div style="line-height:1.7; font-size:14px; color:#333;">
-      <p style="margin-bottom:16px;">
+    <div style="line-height:1.7; font-size:16px; color:#333;">
+      <p style="margin-bottom:16px;text-align: justify; text-justify: inter-word;">
         Sports analytics traces back to 1870s baseball box scores, but only recently have advanced techniques like machine learning transformed franchise operations. This shift was driven by both improved data collection and the proven competitive edge highlighted in <em style="color:#2b6cb0;font-style:italic">"Moneyball"</em>.
       </p>
       
-      <p style="margin-bottom:16px;">
+      <p style="margin-bottom:16px;text-align: justify; text-justify: inter-word;">
         Today, analytics critically impacts draft selections, in-game decisions, and player evaluations. Beyond teams, leagues and media use data for strategic decisions - even informing rule changes.
       </p>
       
-      <p style="margin:0; color:#333;">
-        This course covers essential data science applications in sports, including quality assessment, modeling, and visualization.
+      <p style="margin:0; color:#333;text-align: justify; text-justify: inter-word;">
+        Including data quality assessment, data modeling, and data visualization in R and Python.
       </p>
     </div>
   </div>
@@ -66,12 +66,12 @@ author_profile: true
       Monitoring Training Load in Team Sports
     </h2>
     
-    <div style="line-height:1.7; font-size:14px; color:#333;">
-      <p style="margin-bottom:16px;">
+    <div style="line-height:1.7; font-size:16px; color:#333;">
+      <p style="margin-bottom:16px;text-align: justify; text-justify: inter-word;">
         Intensifying athlete workloads make precise load monitoring essential for optimizing performance while preventing costly injuries.
       </p>
       
-      <p style="margin-bottom:16px;">
+      <p style="margin-bottom:16px;text-align: justify; text-justify: inter-word;">
         The course follows a "why to so what" framework, ensuring each module connects theory to practical application:
       </p>
 
@@ -103,8 +103,8 @@ author_profile: true
       Basketball Scouting
     </h2>
     
-    <div style="line-height:1.7; font-size:14px; color:#333;">
-      <p style="margin-bottom:16px;">
+    <div style="line-height:1.7; font-size:16px; color:#333;">
+      <p style="margin-bottom:16px;text-align: justify; text-justify: inter-word;">
         Modern basketball scouting combines traditional evaluation with cutting-edge analytics. This program covers the complete scouting ecosystem from high school prospects to professional leagues worldwide.
       </p>
       
@@ -112,7 +112,7 @@ author_profile: true
       <ul style="margin:12px 0; padding-left:24px; color:#4a5568;">
         <li style="margin-bottom:8px;"><strong>Player Evaluation:</strong> Master rating systems and performance metrics</li>
         <li style="margin-bottom:8px;"><strong>League Scouting:</strong> NBA/WNBA/college/international comparisons</li>
-        <li style="margin-bottom:8px;"><strong>Front Office Ops:</strong> Franchise management principles</li>
+        <li style="margin-bottom:8px;"><strong>X's & O's Playcall Terminology:</strong> Basketball Tactics and Strategy</li>
         <li style="margin-bottom:8px;"><strong>Tech Platforms:</strong> InStat & Synergy Sports proficiency</li>
         <li style="margin-bottom:8px;"><strong>Career Pathways:</strong> Build professional networks and scouting opportunities</li>
       </ul>
@@ -140,27 +140,18 @@ author_profile: true
       AI for Academic Research in Sport Science
     </h2>
     
-    <div style="line-height:1.7; font-size:14px; color:#333;">
-      <p style="margin-bottom:16px;">
-        Modern AI tools like DeepSeek, Grok, and ChatGPT are transforming academic workflows. While they can't replace scholarly writing, they excel at research assistance - from finding relevant citations to analyzing complex papers and improving writing clarity.
+    <div style="line-height:1.7; font-size:16px; color:#333;">
+      <p style="margin-bottom:16px; text-align: justify; text-justify: inter-word;">
+         ● Research Assistance with AI Tools<br>
+         Leverage modern AI platforms such as DeepSeek, Grok, and ChatGPT to support literature searches, paper analysis, and academic writing improvement, enhancing efficiency while maintaining the need for scholarly thinking.<br>
+         ● Bibliometric Analysis<br>
+         Apply bibliometric methods to evaluate publication trends, research hotspots, and collaboration networks, using major databases such as SPORTDiscus, PubMed, Web of Science, Scopus, ScienceDirect, and Google Scholar.<br>
+         ● AI-Powered Literature Search & Gap Identification<br>
+Use AI-driven search platforms like Perplexity AI, Consensus, Scite, and Elicit to conduct natural language queries, filter studies by evidence strength and methodological detail, and identify gaps in existing literature for future research.
       </p>
-      
-      <p style="margin-bottom:16px;">
-        Our methodology leverages AI's strengths in pattern recognition while maintaining academic rigor:
-      </p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0;">
-  <span style="background: #f0f5ff; color: #2b6cb0; padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500;">Smart Outlining</span>
-  <span style="background: #f0f5ff; color: #2b6cb0; padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500;">Citation Mining</span>
-  <span style="background: #f0f5ff; color: #2b6cb0; padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500;">PDF Analysis</span>
-  <span style="background: #f0f5ff; color: #2b6cb0; padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500;">Writing Enhancement</span>
-  <span style="background: #f0f5ff; color: #2b6cb0; padding: 4px 10px; border-radius: 12px; font-size: 13px; font-weight: 500;">Literature Synthesis</span>
-</div>
-      
-
     </div>
   </div>
-</div>
+ </div>
 
 
 <!-- 第五个图文区块：Testing in Sport Science -->
