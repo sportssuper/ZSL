@@ -36,7 +36,7 @@ redirect_from:
     <h3 style="margin-top: 0; margin-bottom: 15px;">
       <strong>Theory of Participation In Sports Competitions</strong>
     </h3>
-    <p style="line-height: 1.6; font-size: 15px; color: #333;">
+    <p style="line-height: 1.6; font-size: 15px; color: #333;text-align: justify; text-justify: inter-word;">
       This book systematically establishes the theoretical framework of competitive participation for the first time, filling a long-standing gap in competitive sports research where "training was emphasized over competition," marking a milestone achievement. The project brought together three dedicated teams: a core authorship team comprising experts and scholars from seven institutions (Beijing Sport University, Shanghai University of Sport, Wuhan Sports University, Shanxi University, South China Normal University, Guangzhou University, and Tsinghua University), a translation team led by Professor Xu Aimei of South China Normal University, and an editorial team from People's Sports Publishing House. Over eight years of collaborative effort, these teams completed the revision, translation, and publication of the English edition of Theory of Participation In Sports Competitions, including the addition of two new chapters.<br>
 The publication of the English version of this book introduces China's original academic achievements to the international competitive sports community, securing a theoretical stronghold in the field of competitive sports research. This work holds significant importance in strengthening theoretical confidence in China's competitive sports endeavors, constructing an autonomous knowledge system, and advancing the fulfillment of the grand vision of building a leading sports nation.
 
@@ -67,7 +67,7 @@ The publication of the English version of this book introduces China's original 
     <h3 style="margin-top: 0; margin-bottom: 15px;">
       <strong>Modelling and Simulation in Sport and Exercise</strong>
     </h3>
-    <p style="line-height: 1.6; font-size: 15px; color: #333;">
+    <p style="line-height: 1.6; font-size: 15px; color: #333;text-align: justify; text-justify: inter-word;">
       Modelling and simulation techniques are of central importance to conducting 
 research in sport and exercise science, informing data collection and helping 
 to analyze patterns of movement and physical performance. Modelling and 
