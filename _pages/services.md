@@ -61,7 +61,7 @@ redirect_from:
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      THU Male Basketball Team<br>清华大学男子篮球队
+      Tsinghua University (THU) Male Basketball Team<br>清华大学男子篮球队
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     ● Video Analysis & Tactical Support<br>
@@ -88,7 +88,7 @@ redirect_from:
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      THU Female Basketball Team<br>清华大学女子篮球队
+      Tsinghua University (THU) Female Basketball Team<br>清华大学女子篮球队
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     ● Video Analysis & Tactical Support<br>
@@ -120,7 +120,7 @@ redirect_from:
 
   <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      THU High School Basketball Team<br>清华大学附属中学篮球队
+      Tsinghua University (THU) High School Basketball Team<br>清华大学附属中学篮球队
     </h3>
     <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     ● Neuromuscular Fatigue & Load Monitoring<br>
