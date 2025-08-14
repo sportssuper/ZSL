@@ -171,7 +171,7 @@ Use AI-driven search platforms like Perplexity AI, Consensus, Scite, and Elicit 
       Testing in Sport Science
     </h2>
     
-    <div style="line-height:1.7; font-size:14px; color:#333;">
+    <div style="line-height:1.7; font-size:16px; color:#333;">
       <p style="margin-bottom:16px;">
         Master cutting-edge performance assessment using industry-standard tools like Catapult (movement tracking), ForceDecks (jump analysis), and GymAware (strength monitoring) to conduct evidence-based athlete evaluations.
       </p>
