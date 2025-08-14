@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaoliang Zhang|张绍良"
+title                    : "Shaoliang Zhang | 张绍良"
 title_separator          : "-"
 name                     : &name "Shaoliang Zhang"
 description              : &description "Tsinghua University, Research Center for Athletic Performance and Data Science"
@@ -82,7 +82,7 @@ analytics:
 author: 
   name             : "Shaoliang Zhang"
   avatar           : "photo2.jpg"
-  bio              : "Tsinghua University, Research Center for Athletic Performance and Data Science"
+  bio              : "Tsinghua University, Athletic Performance and Data Science Laboratory"
   location         : "Beijing, China"
   employer         :
   researchgate     : "https://www.researchgate.net/profile/Shaoliang-Zhang-5"
