@@ -24,7 +24,7 @@ redirect_from:
 {% include base_path %}
 
 **Chinese Female Basketball Team - Sports Performance Analysis Specialist**
-<div style="width: 130%; max-width: 1000px">
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL/assets/chinafemale/1.jpg" 
@@ -35,7 +35,7 @@ redirect_from:
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       Chinese Female Basketball Team<br>中国国家女子篮球队
     </h3>
-    <p style="line-height: 1.7; font-size: 14px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
+    <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     1. Video Analysis & Tactical Support<br>
     Use Sportscode and Catapult Vision to analyze opponents’ team tactics and individual technical–tactical tendencies. Produce analytical research, player scouting reports, and breakdowns of basketball X’s and O’s strategy, complemented by data visualizations for coaching staff to inform game preparation.<br>
     2. Load Monitoring & Performance Optimization<br>
@@ -52,7 +52,7 @@ redirect_from:
 </div>
 
 **Tsinghua University Male Basketball Team - Sports Performance Analysis Specialist**
-<div style="width: 130%; max-width: 1000px">
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu1.jpg" 
@@ -63,7 +63,7 @@ redirect_from:
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       THU Male Basketball Team<br>清华大学男子篮球队
     </h3>
-    <p style="line-height: 1.7; font-size: 14px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
+    <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     1. Video Analysis & Tactical Support<br>
     Use Sportscode and Catapult Vision to analyze opponents’ team tactics and individual technical–tactical tendencies. Produce analytical research, player scouting reports, and X’s and O’s strategy breakdowns, supported by data visualizations for coaching staff to inform game preparation.<br>
     2. Training & Match Load Monitoring<br>
@@ -79,7 +79,7 @@ redirect_from:
 </div>
 
 **Tsinghua University Female Basketball Team - Sports Performance Analysis Specialist**
-<div style="width: 130%; max-width: 1000px">
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu2.jpg" 
@@ -90,7 +90,7 @@ redirect_from:
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       THU Female Basketball Team<br>清华大学女子篮球队
     </h3>
-    <p style="line-height: 1.7; font-size: 14px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
+    <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     1. Video Analysis & Tactical Support<br>
     Utilize Sportscode and Catapult Vision to analyze opponents’ team tactics and individual technical–tactical tendencies. Produce analytical research, player scouting reports, and X’s and O’s strategy breakdowns, complemented by data visualizations to support coaches in game preparation.<br>
     2. Basketball-Specific Physical Testing<br>
@@ -111,7 +111,7 @@ redirect_from:
 
 
 **Tsinghua University High School Basketball Team - Sports Performance Analysis Specialist**
-<div style="width: 130%; max-width: 1000px">
+<div style="width: 130%; max-width: 1400px">
 <div style="display: flex; gap: 20px; margin: 20px 0;">
 
   <img src="https://sportssuper.github.io/ZSL//assets/images/thu3.jpg" 
@@ -122,7 +122,7 @@ redirect_from:
     <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
       THU High School Basketball Team<br>清华大学附属中学篮球队
     </h3>
-    <p style="line-height: 1.7; font-size: 14px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
+    <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
     1. Neuromuscular Fatigue & Load Monitoring<br>
     Use countermovement jump (CMJ) testing to assess player readiness. Metrics such as RSI Mod, FT:CT, jump height, and impulse detect neuromuscular fatigue, distinguish between acute and chronic training load responses, and inform adjustments to training intensity.<br>
     2. Recovery Tracking & Performance Optimization<br>
