@@ -25,7 +25,7 @@ redirect_from:
 
   <p style="margin-bottom: 1em;">My current projects span basketball technical-tactical diagnostics, physical testing, spatiotemporal data mining, and sports injury analysis (see the Publications section for details).</p>
 
-  <p style="margin-top: 0.5em; margin-bottom: 1em;">The Athletic Performance and Data Science Laboratory is / We are actively recruiting postdoctoral researchers, Ph.D. students, Master’s students, and research assistants. If you are interested in academic collaboration or joining the lab, please feel free to reach out via email at <a href="mailto:ZSL.INEF@gmail.com">ZSL.INEF@gmail.com</a> or <a href="mailto:zslinef@mail.tsinghua.edu.cn">zslinef@mail.tsinghua.edu.cn</a>.</p>
+  <p style="margin-top: 0.5em; margin-bottom: 1em;">The Athletic Performance and Data Science Lab, which I lead, is actively recruiting Ph.D. students, postdoctoral researchers, and summer interns. If you are interested in academic collaboration or joining my lab, please feel free to reach out to me via email at <a href="mailto:ZSL.INEF@gmail.com">ZSL.INEF@gmail.com</a> or <a href="mailto:zslinef@mail.tsinghua.edu.cn">zslinef@mail.tsinghua.edu.cn</a>.</p>
 
   <p>Below is a list of our academic collaborators and institutional partners. We are always eager to welcome like-minded, motivated individuals to our team. Top-performing students from our lab are regularly recommended for internships and training opportunities with world-class basketball clubs. We warmly invite you to join us.</p>
 </div>
