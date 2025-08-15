@@ -43,7 +43,7 @@ author_profile: true
       </p>
       
       <p style="margin:0; color:#333;text-align: justify; text-justify: inter-word;">
-        Including data quality assessment, data modeling, and data visualization in R and Python.
+        This course covers data quality assessment, data modeling, and data visualization using R and Python, providing students with the practical skills to apply analytics in real-world sports performance contexts.
       </p>
     </div>
   </div>
