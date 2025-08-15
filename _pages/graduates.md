@@ -108,27 +108,6 @@ author_profile: true
   </div>
 </div>
 
-
-
- <!--Xiaoyang Zhong-->
-<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
-  <!-- img r -->
-  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
-    <img src='https://sportssuper.github.io/ZSL/assets/images/zxy.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-  
-  <!-- Xiaoyang Zhong-->
-  <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Xiaoyang Zhong (钟晓阳)<br>
-      <strong>Graduation year: </strong>2025<br>
-      <strong>Employer: </strong>中国工商银行北京市分行<br>
-      <strong>Remarks: </strong>科研扎实，球打得好，爱睡觉耽误事！
-    </p>
-  </div>
-</div>
-
-
  <!--tzt-->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
@@ -165,6 +144,27 @@ author_profile: true
     </p>
   </div>
 </div>
+
+ <!--Xiaoyang Zhong-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/zxy.png' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- Xiaoyang Zhong-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;font-size: 16px;">
+      <strong>Name: </strong>Xiaoyang Zhong (钟晓阳)<br>
+      <strong>Graduation year: </strong>2025<br>
+      <strong>Employer: </strong>中国工商银行北京市分行<br>
+      <strong>Remarks: </strong>科研扎实，球打得好，爱睡觉耽误事！
+    </p>
+  </div>
+</div>
+
+
+
 
 
 
