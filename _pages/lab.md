@@ -17,7 +17,7 @@ author_profile: true
   }
 </style>
 
-# PHD
+# PhD
 
   <!-- xyy -->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
@@ -83,7 +83,7 @@ author_profile: true
   <!-- wd l -->
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
-      <strong>Name: </strong>Yilin Deng (邓薏琳)<br>
+      <strong>Name: </strong>Yilynn Tang (邓薏琳)<br>
       <strong>Awards: </strong>四川省政府一带一路奖学金, 清华大学全额学费奖学金
     </p>
   </div>
