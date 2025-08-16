@@ -25,7 +25,7 @@ redirect_from:
 
   <p style="margin-bottom: 1em;">My current projects span basketball technical-tactical diagnostics, physical testing, spatiotemporal data mining, and sports injury analysis (see the Publications section for details).</p>
 
-  <p style="margin-top: 0.5em; margin-bottom: 1em;">The Athletic Performance and Data Science Lab, which I lead, is actively recruiting Ph.D. students, postdoctoral researchers, and summer interns. If you are interested in academic collaboration or joining my lab, please feel free to reach out to me via email at <a href="mailto:ZSL.INEF@gmail.com">ZSL.INEF@gmail.com</a> or <a href="mailto:zslinef@mail.tsinghua.edu.cn">zslinef@mail.tsinghua.edu.cn</a>.</p>
+  <p style="margin-top: 0.5em; margin-bottom: 1em;">The Athletic Performance and Data Science Lab (APDS), which I lead, is actively recruiting Ph.D. students, postdoctoral researchers, and summer interns. If you are interested in academic collaboration or joining my lab, please feel free to reach out to me via email at <a href="mailto:ZSL.INEF@gmail.com">ZSL.INEF@gmail.com</a> or <a href="mailto:zslinef@mail.tsinghua.edu.cn">zslinef@mail.tsinghua.edu.cn</a>.</p>
 
   <p>Below is a list of our academic collaborators and institutional partners. We are always eager to welcome like-minded, motivated individuals to our team. Top-performing students from our lab are regularly recommended for internships and training opportunities with world-class basketball clubs. We warmly invite you to join us.</p>
 </div>
@@ -33,14 +33,14 @@ redirect_from:
 
 
 <div style="width: 100%; margin: 20px 0;">
-  <img src="https://sportssuper.github.io/ZSL/assets/images/net1.jpg" 
+  <img src="https://sportssuper.github.io/ZSL/assets/images/net1v1.jpg" 
        alt="Map"
        style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
 
 <div style="width: 100%; margin: 20px 0;">
-  <img src="https://sportssuper.github.io/ZSL/assets/images/net2.jpg" 
+  <img src="https://sportssuper.github.io/ZSL/assets/images/net2v2.jpg" 
        alt="Map"
        style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
