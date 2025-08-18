@@ -12,7 +12,7 @@ redirect_from:
 <div style="text-align: justify; font-family: 'Times New Roman', Times, serif; max-width: 800px; margin: 0 auto; line-height: 1.6; hyphens: auto;">
   <p style="margin-bottom: 1em;">I am an Assistant Professor in the Division of Sports Science and Physical Education at Tsinghua University, a doctoral supervisor, and a Tang Zhongying Young Scholar at Tsinghua University. I was awarded the Tsinghua University Award for Teaching Excellence in 2024.</p>
 
-  <p style="margin-bottom: 1em;">I received my Ph.D. from the Faculty of Sciences for Physical Activity and Sport (INEF) at the Technical University of Madrid, Spain. I hold a Master's degree from South China Normal University (Guangzhou, China) and a Bachelor's degree from Yan'an University (Shaanxi, China).</p>
+  <p style="margin-bottom: 1em;">I received my Ph.D. from the Faculty of Sciences for Physical Activity and Sport (INEF) at the Technical University of Madrid, Spain. I hold a Master's degree from South China Normal University (Guangzhou, China) and a Bachelor's degree from Yan'an University (Shanxi, China).</p>
 
   <p style="margin-bottom: 1em;">During my doctoral studies, I served as a performance analyst for Real Madrid C.F. and the Spanish national youth basketball teams (U18-U20). Upon returning to China, I worked as a performance analyst for the Chinese Women's National Basketball Team as well as the Tsinghua University male and female basketball teams.</p>
 
