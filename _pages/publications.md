@@ -5,35 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 <style>
- 
   body {
     font-family: 'Times New Roman', Times, serif !important;
-    text-align: justify; /* 全局两端对齐 */
-    text-justify: inter-word; /* 单词间调整间距 */
   }
- 
-  table th:first-of-type { width: 40%; }
-  table th:nth-of-type(2) { width: 20%; }
-  table th:nth-of-type(3) { width: 20%; }
-  table th:nth-of-type(4) { width: 20%; }
-
-  h1, h2, h3, p, table, span, a, div {
-    font-family: inherit !important;
-    text-align: inherit !important;
-    text-justify: inherit !important;
+  
+  p, li, td, th, span, div {
+    text-align: justify;
+    text-justify: inter-word;
   }
-
+  
   h1, h2, h3 {
     text-align: left !important;
   }
 
   code, pre {
     font-family: 'Courier New', monospace !important;
-    text-align: left !important; /* 代码通常左对齐 */
+    text-align: left !important;
+    text-justify: auto !important;
+  }
+  
+ 
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
     text-justify: auto !important;
   }
 </style>
-
 
 <h1 style="font-family: 'Times New Roman', Times, serif; text-align: left; margin-bottom: 20px;">Publications</h1>
 
