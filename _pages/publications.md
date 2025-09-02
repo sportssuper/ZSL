@@ -106,7 +106,7 @@ author_profile: true
 **[2]** Wang, X., Tang, Z., Shao, J., Robertson, S., Gómez, M. Á., & **Zhang, S.** (2024). HoopTransformer: advancing NBA offensive play recognition with self-supervised learning from player trajectories. Sports Medicine.
 
 
-<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Systematic Review (系统综述评论)</span>
+<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Systematic review (系统综述评论)</span>
 
 **[1]** Li, M., Wang, X., & **Zhang, S.** (2024). The effect of video assistant referee (VAR) on match performance in elite football: a systematic review with meta-analysis. Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology.
 
