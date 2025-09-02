@@ -9,11 +9,26 @@ author_profile: true
   body {
     font-family: 'Times New Roman', Times, serif !important;
   }
-  h1, h2, h3, p, table, span, a {
-    font-family: inherit !important;
+  
+  p, li, td, th, span, div {
+    text-align: justify;
+    text-justify: inter-word;
   }
+  
+  h1, h2, h3 {
+    text-align: left !important;
+  }
+
   code, pre {
     font-family: 'Courier New', monospace !important;
+    text-align: left !important;
+    text-justify: auto !important;
+  }
+  
+ 
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+    text-justify: auto !important;
   }
 </style>
 
