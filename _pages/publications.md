@@ -105,9 +105,9 @@ author_profile: true
 
 **[2]** Wang, X., Tang, Z., Shao, J., Robertson, S., Gómez, M. Á., & **Zhang, S.** (2024). HoopTransformer: advancing NBA offensive play recognition with self-supervised learning from player trajectories. Sports Medicine.
 
-**[3]** Shao, J., Huang, C., Tang, Z., GÓMEZ, M. Á., & Pelechrinis, K. (2024). Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data. In NeurIPS 2024 workshop: self-supervised learning-theory and practice.
+**[3]** Wang, X., Shao, J., Huang, C., Tang, Z., Gómez Ruano, M. Á., **Zhang, S.**, & Pelechrinis, K. (2024). Hoop-MSSL: Multi-Task Self-supervised Representation Learning on Basketball Spatio-Temporal Data. In NeurIPS 2024 workshop: self-supervised learning-theory and practice.
 
-**[4]** Tang, Z., Wang, X., & Zhang, S. (2023). Clustering football game situations via deep representation learning. In Statsbomb conference 2023.
+**[4]** Tang, Z., Wang, X., & **Zhang, S.** (2023). Clustering football game situations via deep representation learning. In Statsbomb conference 2023.
 
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Systematic review (系统综述评论)</span>
