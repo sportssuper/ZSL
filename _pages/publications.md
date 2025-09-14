@@ -111,6 +111,7 @@ author_profile: true
 
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Systematic review (系统综述评论)</span>
+
 **[1]** Gu, L., Wang, W., Plakias, S., & **Zhang, S.** (2025). Playing style identification in team sports: A systematic review from statistical dimensionality reduction to unsupervised machine learning. International Journal of Sports Science & Coaching.
 
 **[2]** Li, M., Wang, X., & **Zhang, S.** (2024). The effect of video assistant referee (VAR) on match performance in elite football: a systematic review with meta-analysis. Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology.
