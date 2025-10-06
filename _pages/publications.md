@@ -81,21 +81,23 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
 
-**[1]** Zhai, Z., Li, L., Chen, J., & **Zhang, S.** (2025). Seasonal dynamics of stress perception and coping strategies among Chinese elite basketball referees. Journal of Sports Sciences.
+**[1]** **Zhang, S.**，Li, M., G, L., Ferioli, D., Sansone, P., & Gomez, M. (2025). Integrating subjective assessments and wearable-derived metrics: decoding in-game load-performance relationships in collegiate basketball players. The Journal of Sports Medicine and Physical Fitness. 
 
-**[2]** **Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. (2025). Tracking what truly matters: the contribution of game load, recovery, and well-being to basketball performance. International Journal of Sports Physiology and Performance.
+**[2]** Zhai, Z., Li, L., Chen, J., & **Zhang, S.** (2025). Seasonal dynamics of stress perception and coping strategies among Chinese elite basketball referees. Journal of Sports Sciences.
 
-**[3]** Sansone, P., Fortes, L. d. S., Caparros, T., **Zhang, S.**, Tessitore, A., & Conte, D. (2025). Breaking down the 3 × 3 basketball game: how tournament phase, game outcome, and final score margin impact physiological, perceptual, and mental demands. International Journal of Sports Physiology and Performance.
+**[3]** **Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. (2025). Tracking what truly matters: the contribution of game load, recovery, and well-being to basketball performance. International Journal of Sports Physiology and Performance.
 
-**[4]** Sansone, P., Rago, V., Alonso-Perez-Chao, E., **Zhang, S.**, & Conte, D. (2025). Physical demands and acute neuromuscular responses across a single-day 3 × 3 male basketball tournament. Sensors.
+**[4]** Sansone, P., Fortes, L. d. S., Caparros, T., **Zhang, S.**, Tessitore, A., & Conte, D. (2025). Breaking down the 3 × 3 basketball game: how tournament phase, game outcome, and final score margin impact physiological, perceptual, and mental demands. International Journal of Sports Physiology and Performance.
 
-**[5]** Alonso, E., Miranda, N., **Zhang, S.**, Sosa, C., Trapero, J., Lorenzo, J., & Lorenzo, A. (2020). Peak Match Demands in Young Basketball Players: Approach and Applications. International Journal of Environmental Research and Public Health.
+**[5]** Sansone, P., Rago, V., Alonso-Perez-Chao, E., **Zhang, S.**, & Conte, D. (2025). Physical demands and acute neuromuscular responses across a single-day 3 × 3 male basketball tournament. Sensors.
 
-**[6]** Trapero, J., Sosa Marín, C., **Zhang, S.**, Portes, R., Ruano, M., Bonal Sanchez, J., Saiz, S., & Lorenzo Calvo, A. (2020). Comparison of the movement characteristics based on position-specific between semi-elite and elite basketball players. Revista de Psicología del Deporte.
+**[6]** Alonso, E., Miranda, N., **Zhang, S.**, Sosa, C., Trapero, J., Lorenzo, J., & Lorenzo, A. (2020). Peak Match Demands in Young Basketball Players: Approach and Applications. International Journal of Environmental Research and Public Health.
 
-**[7]** Cui, Y., Liu, F., Bao, D., Liu, H., **Zhang, S.**, & Gómez, M. Á. (2019). Key anthropometric and physical determinants for different playing positions during National Basketball Association draft combine test. Frontiers in Psychology.
+**[7]** Trapero, J., Sosa Marín, C., **Zhang, S.**, Portes, R., Ruano, M., Bonal Sanchez, J., Saiz, S., & Lorenzo Calvo, A. (2020). Comparison of the movement characteristics based on position-specific between semi-elite and elite basketball players. Revista de Psicología del Deporte.
 
-**[8]** Ordóñez, A. F., Polo, B., Lorenzo, A., & **Zhang, S.** (2019). Effects of a school physical activity intervention in pre-adolescents. Apunts. Educación Física y Deportes
+**[8]** Cui, Y., Liu, F., Bao, D., Liu, H., **Zhang, S.**, & Gómez, M. Á. (2019). Key anthropometric and physical determinants for different playing positions during National Basketball Association draft combine test. Frontiers in Psychology.
+
+**[9]** Ordóñez, A. F., Polo, B., Lorenzo, A., & **Zhang, S.** (2019). Effects of a school physical activity intervention in pre-adolescents. Apunts. Educación Física y Deportes
 
 
 
