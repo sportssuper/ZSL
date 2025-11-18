@@ -82,6 +82,8 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
 
+**[1]** **Zhang, S.**, Li, M., Qin, S. Xing, W., Zhai, Z., & Wang, X. (2025). Tracking key metrics: fluctuations in external and internal load across game quarters in collegiate basketball players. BMC Sports Science, Medicine and Rehabilitation. 
+
 **[1]** **Zhang, S.**，Li, M., G, L., Ferioli, D., Sansone, P., & Gomez, M. (2025). Integrating subjective assessments and wearable-derived metrics: decoding in-game load-performance relationships in collegiate basketball players. The Journal of Sports Medicine and Physical Fitness. 
 
 **[2]** Zhai, Z., Li, L., Chen, J., & **Zhang, S.** (2025). Seasonal dynamics of stress perception and coping strategies among Chinese elite basketball referees. Journal of Sports Sciences.
