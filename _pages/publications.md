@@ -106,11 +106,11 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Spatio-temporal data mining (时空数据挖掘)</span>
 
-**[1]** Jiao, F., Gong, B., Cao, R., **Zhang, S.**, Gómez Ruano, M. Á., & Cui, Y. (2025). Using massive spatialtemporal data to analyse NBA match performance under different possession outcomes. Intelligent Sports and Health.
+**[1]** Shao, J., Wang, X., Konstantinos, P., Aaron, S., **Zhang, S.**. (2025). Hoop-MSSL: Multitask self-supervised representation learning on basketball spatiotemporal data. Intelligent Sports and Health.
 
-**[2]** Wang, X., Tang, Z., Shao, J., Robertson, S., Gómez, M. Á., & **Zhang, S.** (2024). HoopTransformer: advancing NBA offensive play recognition with self-supervised learning from player trajectories. Sports Medicine.
+**[2]** Jiao, F., Gong, B., Cao, R., **Zhang, S.**, Gómez Ruano, M. Á., & Cui, Y. (2025). Using massive spatialtemporal data to analyse NBA match performance under different possession outcomes. Intelligent Sports and Health.
 
-**[3]** Wang, X., Shao, J., Huang, C., Tang, Z., Gómez Ruano, M. Á., **Zhang, S.**, & Pelechrinis, K. (2024). Hoop-MSSL: Multi-task self-supervised representation learning on basketball spatio-temporal data. In NeurIPS 2024 workshop: self-supervised learning-theory and practice.
+**[3]** Wang, X., Tang, Z., Shao, J., Robertson, S., Gómez, M. Á., & **Zhang, S.** (2024). HoopTransformer: advancing NBA offensive play recognition with self-supervised learning from player trajectories. Sports Medicine.
 
 **[4]** Tang, Z., Wang, X., & **Zhang, S.** (2023). Clustering football game situations via deep representation learning. In Statsbomb conference 2023.
 
