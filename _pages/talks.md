@@ -15,6 +15,10 @@ author_profile: true
   code, pre {
     font-family: 'Courier New', monospace !important;
   }
+table { width: 100%; }
+table td:first-child { width: 70%; }
+table td:last-child { width: 30%; }
+  
 </style>
 
 
@@ -48,7 +52,7 @@ author_profile: true
 | Dometic talks | Conference |
 |-------|------------|
 | [视频助理裁判(VAR)对足球比赛表现影响的Meta分析](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaMo_OwcrHphOb7tmtoDowNk-LJAzO-JJBq2eATGDMEdFYR9qJJdTNJ61mAOuw2mS2ZjisrHfTiwgBtzSpmUulNR9moo_QG8FGHc802YAyMt6CQMCztLaN5aBreazMjJvMXXZ8DNYvzwigofUmHehoY0Q8z6bLoI1CDyIB_XMQ-03-xnBvkVWCnB&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
-| [耐力运动员高原训练周期性方法的最新进展]((https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPjlNd3ckkfSbPKSQ3FHDADj45G6Rg4wFS59KERTG7l9GCOxaF_XOjaohLUH3EJZan_FS8jUPTrm_jLTS6RUdsDcM-i8u16JM0gLiqx33c2tqRe9A5HbyVEkTSOhrPfWBdfXL9DwUDY1vajz3SsV4HgDeUDMiDe7A18slGYVQopq3UB05yI25tA&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
+| [耐力运动员高原训练周期性方法的最新进展](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPjlNd3ckkfSbPKSQ3FHDADj45G6Rg4wFS59KERTG7l9GCOxaF_XOjaohLUH3EJZan_FS8jUPTrm_jLTS6RUdsDcM-i8u16JM0gLiqx33c2tqRe9A5HbyVEkTSOhrPfWBdfXL9DwUDY1vajz3SsV4HgDeUDMiDe7A18slGYVQopq3UB05yI25tA&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
 | [集成学习驱动的中国足球超级联赛预测模型研究](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaOrwoekuZHm06XI1wwebsoAFfnY5dZNm8vhPGM0FJSzYpJQO44ythIBfwQIAFrCVCo3Hx97Y0mscZSYVtL8wD7sgmY-7uKZ3hRfBA62FTTY0ddmBiQtWdavsjHFseGGOdJxCK9u0xO072z5HGC050NjWEwaoEIioBX2SeJiE8QoPjIfR8-8Vjv2&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>** |
 | [高水平女子篮球运动员运动负荷与比赛表现关系研究](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPEbHLxtuQrn1o1uwvyVVTdMLWvHUZ0ZMQJ66TfPfEyqRB03xPpYl8pjp6Br0NXoN168q_b-DN5GjfOXkQi3KgH-82DvxAOsAazpbbFPCEXV-ZL4pm9dxWbaKw_VzF12xmCJJi3WMU65EqA94U4D4e9dWk9Q7N0-3U=&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十二届全国体育科学大会, 山东，日照, 2022.03.</span>** |
 | [基于主成分和聚类分析对CBA球员职业生涯表现的应用研究](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaMoSn8beDbJ5AOquxaPKR507Ag1JbInOexV6dfoCb_bYF4BVOGPHuS2ouy73FMTMSWIdLWsAlGxXD9pLSf7TiF6F5_UjBuHBIuu0FoVbSD5N0gj6frG0U0qkBeDMXvSbSXbTxDoyPBIwqVjLJUbd6DdGgMTy5Rntdkt5VTEvx9wGa3oXvkIzlYO&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十二届全国体育科学大会, 山东，日照, 2022.03.</span>**|
