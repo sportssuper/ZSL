@@ -49,8 +49,11 @@ table td:last-child { width: 30%; }
 | [Evaluating the quality of opposition in basketball games based on TOPSIS method](talks/BACA-2016.pdf) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">ECSS, Vienna, Austria, 2016.07</span>**|
 
 
-| Dometic talks | Conference |
+| Domestic talks | Conference |
 |-------|------------|
+| [数智化时代篮球运动训练监控的革新发展研究] | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十四届全国体育科学大会, 湖北，武汉, 2025.11.</span>**|
+| [基于分位数回归的职业篮球运动员比赛负荷、运动恢复及健康活力对竞技表现的影响研究] | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十四届全国体育科学大会, 湖北，武汉, 2025.11.</span>**|
+| [耐力运动员高原训练周期性方法的最新进展](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPjlNd3ckkfSbPKSQ3FHDADj45G6Rg4wFS59KERTG7l9GCOxaF_XOjaohLUH3EJZan_FS8jUPTrm_jLTS6RUdsDcM-i8u16JM0gLiqx33c2tqRe9A5HbyVEkTSOhrPfWBdfXL9DwUDY1vajz3SsV4HgDeUDMiDe7A18slGYVQopq3UB05yI25tA&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
 | [视频助理裁判(VAR)对足球比赛表现影响的Meta分析](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaMo_OwcrHphOb7tmtoDowNk-LJAzO-JJBq2eATGDMEdFYR9qJJdTNJ61mAOuw2mS2ZjisrHfTiwgBtzSpmUulNR9moo_QG8FGHc802YAyMt6CQMCztLaN5aBreazMjJvMXXZ8DNYvzwigofUmHehoY0Q8z6bLoI1CDyIB_XMQ-03-xnBvkVWCnB&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
 | [耐力运动员高原训练周期性方法的最新进展](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPjlNd3ckkfSbPKSQ3FHDADj45G6Rg4wFS59KERTG7l9GCOxaF_XOjaohLUH3EJZan_FS8jUPTrm_jLTS6RUdsDcM-i8u16JM0gLiqx33c2tqRe9A5HbyVEkTSOhrPfWBdfXL9DwUDY1vajz3SsV4HgDeUDMiDe7A18slGYVQopq3UB05yI25tA&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
 | [集成学习驱动的中国足球超级联赛预测模型研究](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaOrwoekuZHm06XI1wwebsoAFfnY5dZNm8vhPGM0FJSzYpJQO44ythIBfwQIAFrCVCo3Hx97Y0mscZSYVtL8wD7sgmY-7uKZ3hRfBA62FTTY0ddmBiQtWdavsjHFseGGOdJxCK9u0xO072z5HGC050NjWEwaoEIioBX2SeJiE8QoPjIfR8-8Vjv2&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>** |
