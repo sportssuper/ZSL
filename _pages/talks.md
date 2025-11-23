@@ -51,8 +51,8 @@ table td:last-child { width: 30%; }
 
 | Domestic talks | Conference |
 |-------|------------|
-| [数智化时代篮球运动训练监控的革新发展研究] | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十四届全国体育科学大会, 湖北，武汉, 2025.11.</span>**|
-| [基于分位数回归的职业篮球运动员比赛负荷、运动恢复及健康活力对竞技表现的影响研究] | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十四届全国体育科学大会, 湖北，武汉, 2025.11.</span>**|
+| 数智化时代篮球运动训练监控的革新发展研究 | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十四届全国体育科学大会, 湖北，武汉, 2025.11.</span>**|
+| 基于分位数回归的职业篮球运动员比赛负荷、运动恢复及健康活力对竞技表现的影响研究 | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十四届全国体育科学大会, 湖北，武汉, 2025.11.</span>**|
 | [耐力运动员高原训练周期性方法的最新进展](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPjlNd3ckkfSbPKSQ3FHDADj45G6Rg4wFS59KERTG7l9GCOxaF_XOjaohLUH3EJZan_FS8jUPTrm_jLTS6RUdsDcM-i8u16JM0gLiqx33c2tqRe9A5HbyVEkTSOhrPfWBdfXL9DwUDY1vajz3SsV4HgDeUDMiDe7A18slGYVQopq3UB05yI25tA&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
 | [视频助理裁判(VAR)对足球比赛表现影响的Meta分析](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaMo_OwcrHphOb7tmtoDowNk-LJAzO-JJBq2eATGDMEdFYR9qJJdTNJ61mAOuw2mS2ZjisrHfTiwgBtzSpmUulNR9moo_QG8FGHc802YAyMt6CQMCztLaN5aBreazMjJvMXXZ8DNYvzwigofUmHehoY0Q8z6bLoI1CDyIB_XMQ-03-xnBvkVWCnB&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
 | [耐力运动员高原训练周期性方法的最新进展](https://kns.cnki.net/kcms2/article/abstract?v=ewTrO3D4JaPjlNd3ckkfSbPKSQ3FHDADj45G6Rg4wFS59KERTG7l9GCOxaF_XOjaohLUH3EJZan_FS8jUPTrm_jLTS6RUdsDcM-i8u16JM0gLiqx33c2tqRe9A5HbyVEkTSOhrPfWBdfXL9DwUDY1vajz3SsV4HgDeUDMiDe7A18slGYVQopq3UB05yI25tA&uniplatform=NZKPT&language=CHS) | **<span style="background-color: #7E099D; color: white; padding: 1px 4px;">第十三届全国体育科学大会, 中国，天津, 2023.11.</span>**|
