@@ -82,7 +82,7 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
 
-**[1]** ***Zhang, S.**, Li, M., Xing, W., Zheng, W., & **Zhai, Z.** (2025). Effects of player characteristics and periodization strategies on external and internal loads, wellness, and recovery in collegiate male basketball players. Journal of Strength and Conditioning Research. 
+**[1]** **Zhang, S.**, Li, M., Xing, W., Zheng, W., & **Zhai, Z.** (2025). Effects of player characteristics and periodization strategies on external and internal loads, wellness, and recovery in collegiate male basketball players. Journal of Strength and Conditioning Research. 
 
 **[2]** Salazar, H., Garcia, F., Molina, R., Perez-Chao, E. A., Li, M., & **Zhang, S.** (2025). Inertial movement demands comparison between winning and losing quarters in youth basketball players. Kinesiology.
 
