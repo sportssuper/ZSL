@@ -43,6 +43,20 @@ author_profile: true
 
 ● National High-Level University Postgraduate Program, China Scholarship Council – State-Sponsored Joint Ph.D. Training Program ([2015]3022)
 
+● General Administration of Sport of China 2023 Science and Technology Innovation Project, Research on the Match Running Characteristics and Training Methods of Athletes in Different Positions in Women's Field Hockey, Core Research Member (23KJCX011)
+
+● Digital Training and Performance Analysis Technical Service Solution for the Three Major Ball Sports, Core Research Member 
+
+● Sports High-End Think Tank Construction Program, Core Research Member
+
+● Sports High-End Think Tank Construction Program (2023-2024), Core Research Member
+
+● Development of a Theoretical Framework for Intelligent Military Sports Physical Training, Core Research Member
+
+
+
+
+
 {% include base_path %}
 
 {% for post in site.portfolio %}
