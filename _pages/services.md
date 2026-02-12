@@ -136,52 +136,7 @@ redirect_from:
 </div>
 </div>
 
-**Movistar Estudiante Team - Sports Performance Analysis Specialist**
-<div style="width: 130%; max-width: 1400px">
-<div style="display: flex; gap: 20px; margin: 20px 0;">
 
-  <img src="https://sportssuper.github.io/ZSL//assets/images/M.jpg" 
-       alt="M" 
-       style="width: 60%; height: auto;">
-
-  <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      Movistar Estudiante Team<br>埃斯蒂特斯篮球俱乐部
-    </h3>
-    <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
-    ● Video Analysis & Tactical Support<br>
-    Use Sportscode and Catapult Vision to analyze opponents’ team tactics and individual technical–tactical tendencies. Produce analytical research, player scouting reports, and X’s and O’s strategy breakdowns, supported by data visualizations for coaching staff to inform game preparation.<br>
-    </p>
-
-    
-  </div>
-</div>
-</div>
-
-**FC Barcelona U22 - Sports Performance Analysis Specialist**
-<div style="width: 130%; max-width: 1400px">
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-
-  <img src="https://sportssuper.github.io/ZSL//assets/images/U22.jpg" 
-       alt="M" 
-       style="width: 60%; height: auto;">
-
-  <div style="width: 40%; padding: 20px; background: #f8f9fa; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="color: #960DBD; margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">
-      FC Barcelona U22<br>巴塞罗那 U22 
-    </h3>
-    <p style="line-height: 1.7; font-size: 16px; margin-bottom: 0;text-align: justify; text-justify: inter-word;">
-    ● Training & Match Load Monitoring<br>
-    Monitor players’ training and match loads using Catapult and Firstbeat, tracking metrics such as PlayerLoad. Analyze data to manage fatigue, optimize performance, and guide evidence-based training adjustments.
-<br>
-    ● Basketball-Specific Physical Testing<br>
-    Conduct basketball-specific fitness and neuromuscular tests, including assessments of jump performance, sprinting, and agility, to track physical readiness, identify strengths and weaknesses, and support individualized training programs.
-    </p>
-
-    
-  </div>
-</div>
-</div>
 
 
 
