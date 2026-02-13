@@ -32,11 +32,11 @@ redirect_from:
 
 
 
-<div style="width: 100%; margin: 20px 0;">
+<!-- <div style="width: 100%; margin: 20px 0;">
   <img src="https://sportssuper.github.io/ZSL/assets/images/net1v1.jpg" 
        alt="Map"
        style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-</div>
+</div> -->
 
 
 <div style="width: 100%; margin: 20px 0;">
