@@ -117,13 +117,13 @@ positional differences and contextual effects. Biology of Sport
 
 **[1]** Wang, X., Fu, Y., Xu, S., Pelechrinis, K., Zhang, M., Gomez Ruano, M. A., Liu, G., & **Zhang, S.** (2026). (2026). HoopEval: Individual playerAction evaluation via deep reinforcement learning. MIT Sloan Sports Analytics Conference.
 
-**[1]** Shao, J., Wang, X., Konstantinos, P., Aaron, S., **Zhang, S.** (2025). Hoop-MSSL: Multitask self-supervised representation learning on basketball spatiotemporal data. Intelligent Sports and Health.
+**[2]** Shao, J., Wang, X., Konstantinos, P., Aaron, S., **Zhang, S.** (2025). Hoop-MSSL: Multitask self-supervised representation learning on basketball spatiotemporal data. Intelligent Sports and Health.
 
-**[2]** Jiao, F., Gong, B., Cao, R., **Zhang, S.**, Gómez Ruano, M. Á., & Cui, Y. (2025). Using massive spatialtemporal data to analyse NBA match performance under different possession outcomes. Intelligent Sports and Health.
+**[3]** Jiao, F., Gong, B., Cao, R., **Zhang, S.**, Gómez Ruano, M. Á., & Cui, Y. (2025). Using massive spatialtemporal data to analyse NBA match performance under different possession outcomes. Intelligent Sports and Health.
 
-**[3]** Wang, X., Tang, Z., Shao, J., Robertson, S., Gómez, M. Á., & **Zhang, S.** (2024). HoopTransformer: advancing NBA offensive play recognition with self-supervised learning from player trajectories. Sports Medicine.
+**[4]** Wang, X., Tang, Z., Shao, J., Robertson, S., Gómez, M. Á., & **Zhang, S.** (2024). HoopTransformer: advancing NBA offensive play recognition with self-supervised learning from player trajectories. Sports Medicine.
 
-**[4]** Tang, Z., Wang, X., & **Zhang, S.** (2023). Clustering football game situations via deep representation learning. In Statsbomb conference 2023.
+**[5]** Tang, Z., Wang, X., & **Zhang, S.** (2023). Clustering football game situations via deep representation learning. In Statsbomb conference 2023.
 
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Systematic review (系统综述评论)</span>
