@@ -115,6 +115,8 @@ positional differences and contextual effects. Biology of Sport
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Spatio-temporal data mining (时空数据挖掘)</span>
 
+**[1]** Wang, X., Fu, Y., Xu, S., Pelechrinis, K., Zhang, M., Gomez Ruano, M. A., Liu, G., & **Zhang, S.** (2026). (2026). HoopEval: Individual playerAction evaluation via deep reinforcement learning. MIT Sloan Sports Analytics Conference.
+
 **[1]** Shao, J., Wang, X., Konstantinos, P., Aaron, S., **Zhang, S.** (2025). Hoop-MSSL: Multitask self-supervised representation learning on basketball spatiotemporal data. Intelligent Sports and Health.
 
 **[2]** Jiao, F., Gong, B., Cao, R., **Zhang, S.**, Gómez Ruano, M. Á., & Cui, Y. (2025). Using massive spatialtemporal data to analyse NBA match performance under different possession outcomes. Intelligent Sports and Health.
