@@ -84,7 +84,7 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
 
-**[1]** **Zhang, S.**, Li, M., Sansone, P., Gómez, M. Á., Garcia, F., Calvo, A. L., Scanlan, A. T., & Gonçalves, B. (2026). The Complexity in Basketball Performance: Quantifying the Independent Effects of Game Load, Technical–Tactical Approaches, and Contextual Factors on Player Performance. International Journal of Sports Physiology and Performance 
+**[1]** **Zhang, S.**, Li, M., Sansone, P., Gómez, M. Á., Garcia, F., Calvo, A. L., Scanlan, A. T., & Gonçalves, B. (2026). The complexity in basketball performance: quantifying the independent effects of game load, technical–tactical approaches, and contextual factors on player performance. International Journal of Sports Physiology and Performance 
 
 **[2]** **Zhang, S.**, Li, M., Wang, X., Alonso-Pérez-Chao, E., Sansone, P.,  & Fox, J. L. (2026). Monitoring game load across quarters in professional basketball: positional differences and contextual effects. Biology of Sport
 
