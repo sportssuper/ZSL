@@ -84,34 +84,35 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
 
-**[1]** **Zhang, S.**, Li, M., Wang, X., Alonso-Pérez-Chao, E., Sansone, P.,  & Fox, J. L. (2026). Monitoring game load across quarters in professional basketball: 
-positional differences and contextual effects. Biology of Sport
+**[1]** **Zhang, S.**, Li, M., Sansone, P., Gómez, M. Á., Garcia, F., Calvo, A. L., Scanlan, A. T., & Gonçalves, B. (2026). The Complexity in Basketball Performance: Quantifying the Independent Effects of Game Load, Technical–Tactical Approaches, and Contextual Factors on Player Performance. International Journal of Sports Physiology and Performance 
 
-**[2]** **Zhang, S.**, Li, M., Wang, X., García, F., Gómez, M. Á., & Sansone, P. (2026). More than meets the eye: effects of passing network metrics on perceptual response and physical demands in professional basketball. International Journal of Performance Analysis in Sport
+**[2]** **Zhang, S.**, Li, M., Wang, X., Alonso-Pérez-Chao, E., Sansone, P.,  & Fox, J. L. (2026). Monitoring game load across quarters in professional basketball: positional differences and contextual effects. Biology of Sport
 
-**[3]** **Zhang, S.**, Li, M., Wang, X., Zheng, W., & Zhai, Z. (2025). Effects of player characteristics and periodization strategies on external and internal loads, wellness, and recovery in collegiate male basketball players. Journal of Strength and Conditioning Research. 
+**[3]** **Zhang, S.**, Li, M., Wang, X., García, F., Gómez, M. Á., & Sansone, P. (2026). More than meets the eye: effects of passing network metrics on perceptual response and physical demands in professional basketball. International Journal of Performance Analysis in Sport
 
-**[4]** Salazar, H., Garcia, F., Molina, R., Perez-Chao, E. A., Li, M., & **Zhang, S.** (2025). Inertial movement demands comparison between winning and losing quarters in youth basketball players. Kinesiology.
+**[4]** **Zhang, S.**, Li, M., Wang, X., Zheng, W., & Zhai, Z. (2025). Effects of player characteristics and periodization strategies on external and internal loads, wellness, and recovery in collegiate male basketball players. Journal of Strength and Conditioning Research. 
 
-**[5]** **Zhang, S.**, Li, M., Qin, S. Xing, W., Zhai, Z., & Wang, X. (2025). Tracking key metrics: fluctuations in external and internal load across game quarters in collegiate basketball players. BMC Sports Science, Medicine and Rehabilitation. 
+**[5]** Salazar, H., Garcia, F., Molina, R., Perez-Chao, E. A., Li, M., & **Zhang, S.** (2025). Inertial movement demands comparison between winning and losing quarters in youth basketball players. Kinesiology.
 
-**[6]** **Zhang, S.**，Li, M., G, L., Ferioli, D., Sansone, P., & Gomez, M. (2025). Integrating subjective assessments and wearable-derived metrics: decoding in-game load-performance relationships in collegiate basketball players. The Journal of Sports Medicine and Physical Fitness. 
+**[6]** **Zhang, S.**, Li, M., Qin, S. Xing, W., Zhai, Z., & Wang, X. (2025). Tracking key metrics: fluctuations in external and internal load across game quarters in collegiate basketball players. BMC Sports Science, Medicine and Rehabilitation. 
 
-**[7]** Zhai, Z., Li, L., Chen, J., & **Zhang, S.** (2025). Seasonal dynamics of stress perception and coping strategies among Chinese elite basketball referees. Journal of Sports Sciences.
+**[7]** **Zhang, S.**，Li, M., G, L., Ferioli, D., Sansone, P., & Gomez, M. (2025). Integrating subjective assessments and wearable-derived metrics: decoding in-game load-performance relationships in collegiate basketball players. The Journal of Sports Medicine and Physical Fitness. 
 
-**[8]** **Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. (2025). Tracking what truly matters: the contribution of game load, recovery, and well-being to basketball performance. International Journal of Sports Physiology and Performance.
+**[8]** Zhai, Z., Li, L., Chen, J., & **Zhang, S.** (2025). Seasonal dynamics of stress perception and coping strategies among Chinese elite basketball referees. Journal of Sports Sciences.
 
-**[9]** Sansone, P., Fortes, L. d. S., Caparros, T., **Zhang, S.**, Tessitore, A., & Conte, D. (2025). Breaking down the 3 × 3 basketball game: how tournament phase, game outcome, and final score margin impact physiological, perceptual, and mental demands. International Journal of Sports Physiology and Performance.
+**[9]** **Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. (2025). Tracking what truly matters: the contribution of game load, recovery, and well-being to basketball performance. International Journal of Sports Physiology and Performance.
 
-**[10]** Sansone, P., Rago, V., Alonso-Perez-Chao, E., **Zhang, S.**, & Conte, D. (2025). Physical demands and acute neuromuscular responses across a single-day 3 × 3 male basketball tournament. Sensors.
+**[10]** Sansone, P., Fortes, L. d. S., Caparros, T., **Zhang, S.**, Tessitore, A., & Conte, D. (2025). Breaking down the 3 × 3 basketball game: how tournament phase, game outcome, and final score margin impact physiological, perceptual, and mental demands. International Journal of Sports Physiology and Performance.
 
-**[11]** Alonso, E., Miranda, N., **Zhang, S.**, Sosa, C., Trapero, J., Lorenzo, J., & Lorenzo, A. (2020). Peak Match Demands in Young Basketball Players: Approach and Applications. International Journal of Environmental Research and Public Health.
+**[11]** Sansone, P., Rago, V., Alonso-Perez-Chao, E., **Zhang, S.**, & Conte, D. (2025). Physical demands and acute neuromuscular responses across a single-day 3 × 3 male basketball tournament. Sensors.
 
-**[12]** Trapero, J., Sosa Marín, C., **Zhang, S.**, Portes, R., Ruano, M., Bonal Sanchez, J., Saiz, S., & Lorenzo Calvo, A. (2020). Comparison of the movement characteristics based on position-specific between semi-elite and elite basketball players. Revista de Psicología del Deporte.
+**[12]** Alonso, E., Miranda, N., **Zhang, S.**, Sosa, C., Trapero, J., Lorenzo, J., & Lorenzo, A. (2020). Peak Match Demands in Young Basketball Players: Approach and Applications. International Journal of Environmental Research and Public Health.
 
-**[13]** Cui, Y., Liu, F., Bao, D., Liu, H., **Zhang, S.**, & Gómez, M. Á. (2019). Key anthropometric and physical determinants for different playing positions during National Basketball Association draft combine test. Frontiers in Psychology.
+**[13]** Trapero, J., Sosa Marín, C., **Zhang, S.**, Portes, R., Ruano, M., Bonal Sanchez, J., Saiz, S., & Lorenzo Calvo, A. (2020). Comparison of the movement characteristics based on position-specific between semi-elite and elite basketball players. Revista de Psicología del Deporte.
 
-**[14]** Ordóñez, A. F., Polo, B., Lorenzo, A., & **Zhang, S.** (2019). Effects of a school physical activity intervention in pre-adolescents. Apunts. Educación Física y Deportes
+**[14]** Cui, Y., Liu, F., Bao, D., Liu, H., **Zhang, S.**, & Gómez, M. Á. (2019). Key anthropometric and physical determinants for different playing positions during National Basketball Association draft combine test. Frontiers in Psychology.
+
+**[15]** Ordóñez, A. F., Polo, B., Lorenzo, A., & **Zhang, S.** (2019). Effects of a school physical activity intervention in pre-adolescents. Apunts. Educación Física y Deportes
 
 
 
