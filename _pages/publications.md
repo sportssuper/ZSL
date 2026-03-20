@@ -35,7 +35,7 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Technical–tactical diagnosis (技术战术诊断)</span>
 
-**[1]** Dong, R., Peng, Y., Liu, Q., MA, Gómez-Ruano., **Zhang, S.**, X, Xu., B, Yang., H, Liu. Winning beyond scoring: an explainable machine learning framework for identifying key performance indicators in the Chinese Basketball Association. BMC Sports Science, Medicine and Rehabilitation, 2026.
+**[1]** Dong, R., Peng, Y., Liu, Q., MA, Gómez-Ruano., **Zhang, S.**, X, Xu., B, Yang., H, Liu. (2026). Winning beyond scoring: an explainable machine learning framework for identifying key performance indicators in the Chinese Basketball Association. BMC Sports Science, Medicine and Rehabilitation
 
 **[2]** Dong, R., Ding, W., Zhang, M., Chen, R., Gómez Ruano, M. Á., Sansone, P., & **Zhang, S.** (2026). From statistics to strategies: fixture congestion, travel demands, and contextual factors influence tactical behaviours in the Chinese Basketball Association. International Journal of Performance Analysis in Sport
 
