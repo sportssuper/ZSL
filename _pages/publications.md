@@ -83,6 +83,8 @@ author_profile: true
 
 **[24]** **Zhang, S.**, Lorenzo, A., Gómez, M. A., Liu, H., Gonçalves, B., & Sampaio, J. (2017). Players' technical and physical performance profiles and game-to-game variation in NBA. International Journal of Performance Analysis in Sport.
 
+**[25]** 李伟,陆作生,**张绍良**.对中国足球职业联赛竞争平衡机制的思考——基于“恒大模式”对联赛竞争平衡的冲击[J].体育学刊.
+
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
 
