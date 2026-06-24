@@ -57,7 +57,7 @@ author_profile: true
 # Master
 
   <!-- gulinda -->
-<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+<!-- <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
     <img src='https://sportssuper.github.io/ZSL/assets/images/lindagu.jpg' alt="GLD" style="width: 100%; height: 100%; object-fit: cover;">
@@ -70,11 +70,11 @@ author_profile: true
       <strong>Awards: </strong>清华大学研究生综合奖学金
     </p>
   </div>
-</div>
+</div> -->
 
 
   <!-- yilin.jpg -->
-<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+<!-- <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
     <img src='https://sportssuper.github.io/ZSL/assets/images/yilin.jpg' alt="yilin" style="width: 100%; height: 100%; object-fit: cover;">
@@ -87,7 +87,7 @@ author_profile: true
       <strong>Awards: </strong>四川省政府一带一路奖学金, 清华大学全额学费奖学金
     </p>
   </div>
-</div>
+</div> -->
 
   <!-- chutianyi.jpg -->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
