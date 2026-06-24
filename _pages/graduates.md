@@ -165,6 +165,24 @@ author_profile: true
   </div>
 </div>
 
+ <!--cyh-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/hcy.jpg' alt="Yilynn Tang" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <!-- cyh-->
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;font-size: 16px;">
+      <strong>Name: </strong>Chunyang Huang (黄春阳)<br>
+      <strong>Graduation year: </strong>2025<br>
+      <strong>Employer: </strong>艾托邦人工智能科技有限公司<br>
+      <strong>Remarks: </strong>喜爱健身，普通本科生，深蹲150kg!
+    </p>
+  </div>
+</div>
+
  <!--GLD-->
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
@@ -195,26 +213,6 @@ author_profile: true
       <strong>Graduation year: </strong>2026<br>
       <strong>Employer: </strong> ing <br>
       <strong>Remarks: </strong>很荣幸我教的第一个国际学生，来自于马来西亚，中马友谊万岁！
-    </p>
-  </div>
-</div>
-
-
-
- <!--cyh-->
-<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
-  <!-- img r -->
-  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
-    <img src='https://sportssuper.github.io/ZSL/assets/images/hcy.jpg' alt="Yilynn Tang" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-  
-  <!-- cyh-->
-  <div style="flex-grow: 1;">
-    <p style="margin: 0; line-height: 1.5;font-size: 16px;">
-      <strong>Name: </strong>Chunyang Huang (黄春阳)<br>
-      <strong>Graduation year: </strong>2025<br>
-      <strong>Employer: </strong>艾托邦人工智能科技有限公司<br>
-      <strong>Remarks: </strong>喜爱健身，普通本科生，深蹲150kg!
     </p>
   </div>
 </div>
