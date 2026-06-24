@@ -165,8 +165,39 @@ author_profile: true
   </div>
 </div>
 
+ <!--GLD-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/lindagu.jpg' alt="Linda Gu" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;font-size: 16px;">
+      <strong>Name: </strong>Linda Gu (辜琳达)<br>
+      <strong>Graduation year: </strong>2026<br>
+      <strong>Employer: </strong> ing <br>
+      <strong>Remarks: </strong>社科女篮，骄傲有我！
+    </p>
+  </div>
+</div>
 
-
+<!-- yilin-->
+<div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
+  <!-- img r -->
+  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/yilin.jpg' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  
+  <div style="flex-grow: 1;">
+    <p style="margin: 0; line-height: 1.5;font-size: 16px;">
+      <strong>Name: </strong>Yilynn Tang (邓薏琳)<br>
+      <strong>Graduation year: </strong>2026<br>
+      <strong>Employer: </strong> ing <br>
+      <strong>Remarks: </strong>很荣幸我教的第一个国际学生，来自于马来西亚，中马友谊万岁！
+    </p>
+  </div>
+</div>
 
 
 
@@ -174,7 +205,7 @@ author_profile: true
 <div class='paper-box' style="display: flex; align-items: center; gap: 10px; padding: 10px;">
   <!-- img r -->
   <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
-    <img src='https://sportssuper.github.io/ZSL/assets/images/hcy.jpg' alt="lp" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src='https://sportssuper.github.io/ZSL/assets/images/hcy.jpg' alt="Yilynn Tang" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
   
   <!-- cyh-->
