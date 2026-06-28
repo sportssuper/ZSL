@@ -100,7 +100,7 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Jing Li (李婧)<br>
-      <strong>Awards: </strong>
+      <strong>Awards: 清华大学优秀共青团员</strong>
     </p>
   </div>
 </div>
@@ -116,7 +116,7 @@ author_profile: true
   <div style="flex-grow: 1;">
     <p style="margin: 0; line-height: 1.5;">
       <strong>Name: </strong>Ruiheng Zhou (周睿亨)<br>
-      <strong>Awards: </strong>
+      <strong>Awards: 第 26 届CUBA一级联赛全国冠军FMVP，清华大学十佳运动员，清华大学学业优秀奖学金，第一届学生（青年）运动会篮球甲组冠军，第24届CUBA 一级联赛全国冠军，第25届CUBA 一级联赛全国亚军，第27届CUBA 一级联赛全国季军</strong>
     </p>
   </div>
 </div>
