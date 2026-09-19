@@ -33,7 +33,7 @@ author_profile: true
 
 <h1 style="font-family: 'Times New Roman', Times, serif; text-align: left; margin-bottom: 20px;">Publications</h1>
 
-<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Technical–tactical diagnosis (技术战术诊断)</span>
+<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Sports performance assessment (运动表现评估)</span>
 
 **[1]** Durmuş, T., Sansone, P., & **Zhang, S.** (2026). From fixed positions to role diversity: positional evolution in the National Basketball Association. International Journal of Performance Analysis in Sport.
 
@@ -90,7 +90,7 @@ author_profile: true
 **[27]** 李伟,陆作生,**张绍良**.对中国足球职业联赛竞争平衡机制的思考——基于“恒大模式”对联赛竞争平衡的冲击[J].体育学刊.
 
 
-<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Monitoring training load (运动负荷监控)</span>
+<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Wearable training load monitoring (可穿戴运动负荷监控)</span>
 
 **[1]** Scanlan, A. T., Smith, C., Shirley, S., Bartlett, R., Elsworthy, N., **Zhang, S.**, ... & Guy, J. A comparison between the planned and actual external loads experienced during training in a professional, male basketball team. Frontiers in Psychology, 17, 1768705.
 
@@ -126,7 +126,7 @@ author_profile: true
 
 
 
-<span style="color: #960DBD; font-weight: bold; font-size: 25px;">Spatio-temporal data mining (时空数据挖掘)</span>
+<span style="color: #960DBD; font-weight: bold; font-size: 25px;">AI-driven interdisciplinary integration (人工智能交叉融合)</span>
 
 **[1]** Wang, X., Fu, Y., Xu, S., Pelechrinis, K., Zhang, M., Gomez Ruano, M. A., Liu, G., & **Zhang, S.** (2026). HoopEval: Individual playerAction evaluation via deep reinforcement learning. MIT Sloan Sports Analytics Conference.
 
