@@ -111,7 +111,7 @@ author_profile: true
 
 **[9]** Zhai, Z., Li, L., Chen, J., & **Zhang, S.** (2025). Seasonal dynamics of stress perception and coping strategies among Chinese elite basketball referees. Journal of Sports Sciences.***(SCI通讯作者, IF 3.1, JCR 2区)***
 
-**[10]** **Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. (2025). Tracking what truly matters: the contribution of game load, recovery, and well-being to basketball performance. International Journal of Sports Physiology and Performance.***(SCI第一作者, IF 3.3, JCR 1区)***
+**[10]** **Zhang, S.**, Li, M., Chen, L., Wang, X., Lorenzo, A., Conte, D., & Scanlan, A. T. (2025). Tracking what truly matters: the contribution of game load, recovery, and well-being to basketball performance. International Journal of Sports Physiology and Performance.***(SCI第一作者, IF 3.3, JCR 1区，ESI Top 1% 高被引论文)***
 
 **[11]** Sansone, P., Fortes, L. d. S., Caparros, T., **Zhang, S.**, Tessitore, A., & Conte, D. (2025). Breaking down the 3 × 3 basketball game: how tournament phase, game outcome, and final score margin impact physiological, perceptual, and mental demands. International Journal of Sports Physiology and Performance.***(SCI共同作者, IF 3.3, JCR 1区)***
 
