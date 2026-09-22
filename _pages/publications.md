@@ -142,13 +142,15 @@ author_profile: true
 
 <span style="color: #960DBD; font-weight: bold; font-size: 25px;">Systematic review (系统综述评论)</span>
 
-**[1]** Gu, L., Wang, W., Plakias, S., & **Zhang, S.** (2025). Playing style identification in team sports: A systematic review from statistical dimensionality reduction to unsupervised machine learning. International Journal of Sports Science & Coaching.***(SSCI通讯作者, IF 2.5, JCR 2区)***
+**[1]** Wang M, Chen L, Yin M,...& **Zhang, S.**(2026). WMRE2030: Integrating wearable devices, multi-omics, and artificial intelligence–driven real-time feedback into a daily-scale closed-loop framework for a new era of precision exercise. Frontiers in Physiology.***(SCI共同作者, IF 4.3, JCR 1区)***
 
-**[2]** Li, M., Wang, X., & **Zhang, S.** (2024). The effect of video assistant referee (VAR) on match performance in elite football: a systematic review with meta-analysis. Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology.***(SCI通讯作者, IF 1.2, JCR 4区)***
+**[2]** Gu, L., Wang, W., Plakias, S., & **Zhang, S.** (2025). Playing style identification in team sports: A systematic review from statistical dimensionality reduction to unsupervised machine learning. International Journal of Sports Science & Coaching.***(SSCI通讯作者, IF 2.5, JCR 2区)***
 
-**[3]** 易清, 黎涌明, 张铭鑫, 崔一雄, 刘天彪, **张绍良**, ... & 刘鸿优. (2022). 运动表现分析：过去、现在与未来. 上海体育学院学报.***(CSSCI共同作者)***
+**[3]** Li, M., Wang, X., & **Zhang, S.** (2024). The effect of video assistant referee (VAR) on match performance in elite football: a systematic review with meta-analysis. Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology.***(SCI通讯作者, IF 1.2, JCR 4区)***
 
-**[4]** 刘鸿优, 崔一雄, & **张绍良**. (2016). 运动表现分析的发展及展望. 体育学刊.***(CSSCI共同作者)***
+**[4]** 易清, 黎涌明, 张铭鑫, 崔一雄, 刘天彪, **张绍良**, ... & 刘鸿优. (2022). 运动表现分析：过去、现在与未来. 上海体育学院学报.***(CSSCI共同作者)***
+
+**[5]** 刘鸿优, 崔一雄, & **张绍良**. (2016). 运动表现分析的发展及展望. 体育学刊.***(CSSCI共同作者)***
 
 
 
